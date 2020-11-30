@@ -17,3 +17,7 @@ Machine Learning Introduction
 2. [Five years of TF](https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/?utm_source=tw&utm_medium=social&utm_campaign=og&utm_content=&utm_term=)
 
 
+## Courses and more ....
+
+1. [Machine Learning & Data Science - Kaggle](https://www.kaggle.com/)
+
