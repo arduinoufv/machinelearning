@@ -16,4 +16,5 @@
 
 * [Several Colabs...](https://github.com/lmoroney/dlaicourse)
 
+* [Tensorflow in practice](https://github.com/MBadriNarayanan/TensorFlowInPractice)
 
