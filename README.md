@@ -18,6 +18,9 @@ Machine Learning Introduction
  
 2. [Five years of TF](https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/?utm_source=tw&utm_medium=social&utm_campaign=og&utm_content=&utm_term=)
 
+## Online Books
+
+[Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
 ## Courses and more ....
 
