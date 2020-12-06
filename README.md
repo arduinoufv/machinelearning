@@ -16,11 +16,20 @@ Machine Learning Introduction
 1. [ freeCodeCamp.org
  Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial 2:47:55](https://www.youtube.com/watch?v=qFJeN9V1ZsI&t=1393s)
  
-2. [Five years of TF](https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/?utm_source=tw&utm_medium=social&utm_campaign=og&utm_content=&utm_term=)
+2. [CS231n Computer Vision Stanford - Labs](https://cs231n.github.io/) [Solved 2017/18](https://github.com/jariasf/CS231n)
+
+
+3. [Five years of TF](https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/?utm_source=tw&utm_medium=social&utm_campaign=og&utm_content=&utm_term=)
 
 ## Online Books
 
 [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+
+[Dive into Deep Learning, Interactive deep learning book with code, math, and discussions, Implemented with NumPy/MXNet, PyTorch, and TensorFlow](http://d2l.ai/index.html)
+
+## Online Courses
+
+[Cs231n - Stanford](http://cs231n.stanford.edu/syllabus.html)
 
 ## Courses and more ....
 
