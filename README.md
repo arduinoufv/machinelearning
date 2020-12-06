@@ -7,7 +7,9 @@ Machine Learning Introduction
 
 ## Overview Keynotes/Lectures
 
-1. [Roadmap Machine Learning - Daniel (2h45min) ](https://www.youtube.com/watch?v=pHiMN_gy9mk) - [Interactive map](https://dbourke.link/mlmap), [github](https://github.com/mrdbourke/machine-learning-roadmap), [slides](https://github.com/mrdbourke/machine-learning-roadmap/blob/master/2020-ml-roadmap-keynote.pdf)
+1. [Roadmap Machine Learning - Daniel (2h45min) ](https://www.youtube.com/watch?v=pHiMN_gy9mk) - [Interactive map](https://dbourke.link/mlmap), [github](https://github.com/mrdbourke/machine-learning-roadmap), [slides](https://github.com/mrdbourke/machine-learning-roadmap/blob/master/2020-ml-roadmap-keynote.pdf)  [Get starting with TensorFlow](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/00_tensorflow_basics.ipynb)
+
+2. [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
 
 ## Keras, Tensorflow, Colabs
 
