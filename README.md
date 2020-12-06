@@ -25,11 +25,13 @@ Machine Learning Introduction
 
 [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
-[Dive into Deep Learning, Interactive deep learning book with code, math, and discussions, Implemented with NumPy/MXNet, PyTorch, and TensorFlow](http://d2l.ai/index.html)
+[Dive into Deep Learning, Interactive deep learning book with code, math, and discussions, Implemented with NumPy/MXNet, PyTorch, and TensorFlow](http://d2l.ai/index.html) - [Github](https://github.com/d2l-ai/d2l-en)
 
 ## Online Courses
 
 [Cs231n - Stanford](http://cs231n.stanford.edu/syllabus.html)
+
+[STAT 157 at UC Berkeley](https://github.com/d2l-ai/berkeley-stat-157)
 
 ## Courses and more ....
 
