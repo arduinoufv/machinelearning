@@ -37,3 +37,5 @@ Machine Learning Introduction
 
 1. [Machine Learning & Data Science - Kaggle](https://www.kaggle.com/)
 
+2. [Comparing images for similarity using siamese networks, Keras, and TensorFlow](https://www.pyimagesearch.com/2020/12/07/comparing-images-for-similarity-using-siamese-networks-keras-and-tensorflow/)
+
