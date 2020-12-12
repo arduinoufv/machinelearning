@@ -1,9 +1,15 @@
 # machinelearning
 Machine Learning Introduction
 
-## Python and Colab 
+## Python and Colab https://www.youtube.com/watch?v=QXOkPvFM6NU&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw
+## Friendly Introduction
 
-1. [Python Numpy Tutorial + Colab - Justin Johnson., Stanford CS231](https://cs231n.github.io/python-numpy-tutorial/)
+1. [Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4&list=PLs8w1Cdi-zvYKddqF_TFR7_yXuinufEPN)
+2. [Unsupervised Learning](https://www.youtube.com/watch?v=QXOkPvFM6NU&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
+3. [Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw&list=PLs8w1Cdi-zvavXlPXEAsWIh4Cgh83pZPO)
+### including: 
+1. [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
+2. [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 
 ## Overview Keynotes/Lectures
 
