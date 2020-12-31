@@ -47,3 +47,6 @@
 
 2. [Comparing images for similarity using siamese networks, Keras, and TensorFlow](https://www.pyimagesearch.com/2020/12/07/comparing-images-for-similarity-using-siamese-networks-keras-and-tensorflow/)
 
+3. [Top list papers, libraries...of 2020](https://medium.com/paperswithcode/papers-with-code-2020-review-938146ab9658)
+
+
