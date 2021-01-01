@@ -56,6 +56,8 @@
 
 
 
+2. [Forgets GPT~3.  Real #AI news of 2020 is that @ylecun & Y Bengio have converged w @yudapearl, @emilybender, me, etc in realizing large language models are not enough -  to Next Decade in AI = deeper understanding & richer cognitive models, discussed here](https://arxiv.org/abs/2002.06177) 
 
+3. [Lecun Videos - Play List of Keynotes](https://www.youtube.com/playlist?list=PL80I41oVxglK--is17UhoHVosOLFEJzKQ)
 
 
