@@ -49,4 +49,13 @@
 
 3. [Top list papers, libraries...of 2020](https://medium.com/paperswithcode/papers-with-code-2020-review-938146ab9658)
 
+## 8. News
+
+1. [For instance, to train the large-scale language model GPT-3, OpenAI in partnership with Microsoft may have consumed compute resources worth $5 million to $10 million, according to one analysis. No U.S. university has ready access to this scale of computation.](https://arxiv.org/pdf/2004.08900.pdf)
+* Fei-Fei Li Stanford Professor: The year 2020 brought renewed federal support for universities and colleges. But more needs to be done. At the Stanford Institute for Human-Centered Artificial Intelligence (HAI), which I co-direct with John Etchemendy, we have proposed a National Research Cloud. This initiative would devote **$1 billion to $10 billion per year over 10 years** to recharge the partnership between academia, government, and industry. It would give U.S. academic researchers the compute and data they need to stay on the cutting edge, which in turn would attract and retain new crops of faculty and students, potentially reversing the current exodus of researchers from academia to industry.
+
+
+
+
+
 
