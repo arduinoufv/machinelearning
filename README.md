@@ -49,6 +49,8 @@
 
 3. [Top list papers, libraries...of 2020](https://medium.com/paperswithcode/papers-with-code-2020-review-938146ab9658)
 
+4. [Group Equivariant Convolutional Networks](https://github.com/Chen-Cai-OSU/awesome-equivariant-network)
+
 ## 8. News
 
 1. [For instance, to train the large-scale language model GPT-3, OpenAI in partnership with Microsoft may have consumed compute resources worth $5 million to $10 million, according to one analysis. No U.S. university has ready access to this scale of computation.](https://arxiv.org/pdf/2004.08900.pdf)
