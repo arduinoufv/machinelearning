@@ -19,6 +19,8 @@
 
 2. [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
 
+3. [Deep Learning: A Crash Course 3h33 - ACMSIGGRAPH](https://www.youtube.com/watch?v=r0Ogt-q956I)
+
 ## 4. Keras, Tensorflow, Colabs
 
 1. [ freeCodeCamp.org
