@@ -64,4 +64,9 @@
 
 3. [Lecun Videos - Play List of Keynotes](https://www.youtube.com/playlist?list=PL80I41oVxglK--is17UhoHVosOLFEJzKQ)
 
+## 9. Short Courses
+
+[Mini-curso Ciência de Dados - SBRC2019 - Portuguese](https://colab.research.google.com/drive/1p0ERZZ5j_ubwmUT_3dP_Gv-iL-qMnLA4#scrollTo=vysB5TnTIy2M)
+
+
 
