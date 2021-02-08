@@ -25,7 +25,7 @@
 
 ## 4. Keras, Tensorflow, Colabs
 
-1. [ freeCodeCamp.org
+1. [freeCodeCamp.org
  Keras with TensorFlow Course - Python Deep Learning and Neural Networks for Beginners Tutorial 2:47:55](https://www.youtube.com/watch?v=qFJeN9V1ZsI&t=1393s)
  
 2. [CS231n Computer Vision Stanford - Labs](https://cs231n.github.io/) [Solved 2017/18](https://github.com/jariasf/CS231n)
@@ -51,7 +51,7 @@
 
 * [Cs231n - Stanford](http://cs231n.stanford.edu/syllabus.html)
 
-* [Make your own Machine Learning and Deep Learning degree, September 21, 2020 - Aurélien Peden] (https://aurelienpeden.com/blog/2020/machine-learning-deep-learning-resources-degree/)
+* [Make your own Machine Learning and Deep Learning degree, September 21, 2020 - Aurélien Peden](https://aurelienpeden.com/blog/2020/machine-learning-deep-learning-resources-degree/)
 
 * [Collection of the resources & project from Niklas Muennighoff](https://muennighoff.medium.com/example-execution-resources-self-learning-ai-in-a-year-6e7fb1ad0eeb)
 
