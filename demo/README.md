@@ -8,7 +8,13 @@
 
 # Text to/from Images
 
-[DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
+* [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
+* [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
+* [ Chrome extension to read a paper + video](https://gist.github.com/amitness/9e5ad24ab963785daca41e2c4cfa9a82)
+
+# Transfer Learning 
+
+* [Knowledge Transfer in Self Supervised Learning](https://amitness.com/knowledge-transfer/)
 
 # Music
 * [Bardo Composer](https://soundcloud.com/lucas-ferreira-83/sbbs-example1)
