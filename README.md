@@ -5,6 +5,8 @@
 ## 1. Programming
 [Python and Colab](https://www.youtube.com/watch?v=QXOkPvFM6NU&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
 
+[Python, Colab and Machine Learning Notebooks](https://madewithml.com/courses/ml-foundations/notebooks/)
+
 
 ## 2. Friendly Introduction
 
@@ -22,6 +24,8 @@
 2. [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
 
 3. [Deep Learning: A Crash Course 3h33 - ACMSIGGRAPH](https://www.youtube.com/watch?v=r0Ogt-q956I)
+
+4. [Join 20K+ developers in learning how to responsibly deliver value with applied ML.](https://madewithml.com/)
 
 ## 4. Keras, Tensorflow, Colabs
 
@@ -84,6 +88,13 @@
 ## 9. Short Courses
 
 [Mini-curso Ciência de Dados - SBRC2019 - Portuguese](https://colab.research.google.com/drive/1p0ERZZ5j_ubwmUT_3dP_Gv-iL-qMnLA4#scrollTo=vysB5TnTIy2M)
+
+## 10. Others Resources
+
+* [Neural network built from scratch using Python and numpy](https://github.com/aurelien-peden/Neural-network-from-scratch-MNIST)
+
+* [Machine learning algorithms from scratch - Knn and Learn Regression](https://github.com/aurelien-peden/machine-learning-algorithms-from-scratch)
+
 
 
 
