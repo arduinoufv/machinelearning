@@ -1,5 +1,7 @@
 # Machine Learning Introduction
 
+[Google books and online course](https://www.tensorflow.org/resources/learn-ml)
+
 ## 1. Programming
 [Python and Colab](https://www.youtube.com/watch?v=QXOkPvFM6NU&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
 
@@ -31,7 +33,15 @@
 
 3. [Five years of TF](https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/?utm_source=tw&utm_medium=social&utm_campaign=og&utm_content=&utm_term=)
 
+4. [Machine Learning from Scratch Youtube playlist by Python Engineer: kmeans, knn, random forest, ....](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+
+
+
 ## 5. Online Books
+
+[Github](https://github.com/ageron/handson-ml2) - Book - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?dchild=1&keywords=Hands-On+Machine+Learning&qid=1597178878&s=books&sr=1-1)
+
+[ Python Data Science Handbook by Jake VanderPlas ](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 [Deep Learning - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
@@ -39,11 +49,18 @@
 
 ## 6. Online Courses
 
-[Cs231n - Stanford](http://cs231n.stanford.edu/syllabus.html)
+* [Cs231n - Stanford](http://cs231n.stanford.edu/syllabus.html)
+
+* [Make your own Machine Learning and Deep Learning degree, September 21, 2020 - Aurélien Peden] (https://aurelienpeden.com/blog/2020/machine-learning-deep-learning-resources-degree/)
+
+* [Collection of the resources & project from Niklas Muennighoff](https://muennighoff.medium.com/example-execution-resources-self-learning-ai-in-a-year-6e7fb1ad0eeb)
 
 [STAT 157 at UC Berkeley](https://github.com/d2l-ai/berkeley-stat-157)
 
 ## 7. Courses and more ....
+
+0. CS229 Andrew NG - Machine Learning - plus [python version](https://github.com/dibgerge/ml-coursera-python-assignments)
+
 
 1. [Machine Learning & Data Science - Kaggle](https://www.kaggle.com/)
 
