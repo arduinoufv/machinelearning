@@ -18,3 +18,9 @@
 
 * [Tensorflow in practice](https://github.com/MBadriNarayanan/TensorFlowInPractice)
 
+## Google Cloud
+
+* [google cloud](https://colab.research.google.com/github/tensorflow/cloud/blob/master/examples/google_cloud_project_setup_instructions.ipynb)
+* [Tuning a wide and Deep model using Google Cloud](https://colab.research.google.com/github/tensorflow/cloud/blob/master/examples/hp_tuning_wide_and_deep_model.ipynb)
+* [Tuning CIFAR10 on Google Cloud with tensorflow_cloud and CloudTuner](https://colab.research.google.com/github/tensorflow/cloud/blob/master/examples/hp_tuning_cifar10_using_google_cloud.ipynb)
+
