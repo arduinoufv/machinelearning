@@ -7,6 +7,8 @@
 
 [Python, Colab and Machine Learning Notebooks](https://madewithml.com/courses/ml-foundations/notebooks/)
 
+[DataCamp: online interactive Python Tutorials for Data Science](https://www.learnpython.org/)
+
 
 ## 2. Friendly Introduction
 
