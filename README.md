@@ -1,6 +1,11 @@
 # Machine Learning Introduction
 
-[Google books and online course](https://www.tensorflow.org/resources/learn-ml)
+1. [Google books and online course](https://www.tensorflow.org/resources/learn-ml)
+2. [Laurence Moroney - Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow](https://www.youtube.com/watch?v=_Z9TRANg4c0&feature=youtu.be)
+
+
+
+
 
 ## 1. Programming
 [Python and Colab](https://www.youtube.com/watch?v=QXOkPvFM6NU&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
