@@ -15,6 +15,7 @@
 1. [Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4&list=PLs8w1Cdi-zvYKddqF_TFR7_yXuinufEPN)
 2. [Unsupervised Learning](https://www.youtube.com/watch?v=QXOkPvFM6NU&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
 3. [Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw&list=PLs8w1Cdi-zvavXlPXEAsWIh4Cgh83pZPO)
+
 ### including: 
 1. [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 2. [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
@@ -22,12 +23,14 @@
 ## 3. Overview Keynotes/Lectures
 
 1. [Roadmap Machine Learning - Daniel (2h45min) ](https://www.youtube.com/watch?v=pHiMN_gy9mk) - [Interactive map](https://dbourke.link/mlmap), [github](https://github.com/mrdbourke/machine-learning-roadmap), [slides](https://github.com/mrdbourke/machine-learning-roadmap/blob/master/2020-ml-roadmap-keynote.pdf)  [Get starting with TensorFlow](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/00_tensorflow_basics.ipynb)
+2. [Timeline for Data Science Competence](https://pub.towardsai.net/timeline-for-data-science-competence-1b724e7977e0)
 
-2. [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
+3. [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
 
-3. [Deep Learning: A Crash Course 3h33 - ACMSIGGRAPH](https://www.youtube.com/watch?v=r0Ogt-q956I)
+4. [Deep Learning: A Crash Course 3h33 - ACMSIGGRAPH](https://www.youtube.com/watch?v=r0Ogt-q956I)
 
-4. [Join 20K+ developers in learning how to responsibly deliver value with applied ML.](https://madewithml.com/)
+5. [Join 20K+ developers in learning how to responsibly deliver value with applied ML.](https://madewithml.com/)
+6. [Roots of Data Science](https://towardsdatascience.com/the-roots-of-data-science-77c71115229)
 
 ## 4. Keras, Tensorflow, Colabs
 
