@@ -29,13 +29,14 @@
 
 1. [Roadmap Machine Learning - Daniel (2h45min) ](https://www.youtube.com/watch?v=pHiMN_gy9mk) - [Interactive map](https://dbourke.link/mlmap), [github](https://github.com/mrdbourke/machine-learning-roadmap), [slides](https://github.com/mrdbourke/machine-learning-roadmap/blob/master/2020-ml-roadmap-keynote.pdf)  [Get starting with TensorFlow](https://github.com/mrdbourke/tensorflow-deep-learning/blob/main/00_tensorflow_basics.ipynb)
 2. [Timeline for Data Science Competence](https://pub.towardsai.net/timeline-for-data-science-competence-1b724e7977e0)
+3. [Machine Learning Algorithms Full Course | Machine Learning Algorithms Explained | Simplilearn](https://www.youtube.com/watch?v=k9V3DapHEDA)
 
-3. [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
+4. [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
 
-4. [Deep Learning: A Crash Course 3h33 - ACMSIGGRAPH](https://www.youtube.com/watch?v=r0Ogt-q956I)
+5. [Deep Learning: A Crash Course 3h33 - ACMSIGGRAPH](https://www.youtube.com/watch?v=r0Ogt-q956I)
 
-5. [Join 20K+ developers in learning how to responsibly deliver value with applied ML.](https://madewithml.com/)
-6. [Roots of Data Science](https://towardsdatascience.com/the-roots-of-data-science-77c71115229)
+6. [Join 20K+ developers in learning how to responsibly deliver value with applied ML.](https://madewithml.com/)
+7. [Roots of Data Science](https://towardsdatascience.com/the-roots-of-data-science-77c71115229)
 
 ## 4. Keras, Tensorflow, Colabs
 
