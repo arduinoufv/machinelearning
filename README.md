@@ -69,6 +69,7 @@
 * [Make your own Machine Learning and Deep Learning degree, September 21, 2020 - Aurélien Peden](https://aurelienpeden.com/blog/2020/machine-learning-deep-learning-resources-degree/)
 
 * [Collection of the resources & project from Niklas Muennighoff](https://muennighoff.medium.com/example-execution-resources-self-learning-ai-in-a-year-6e7fb1ad0eeb)
+* [Udacity - Introduction to Machine Learning Course](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 
 [STAT 157 at UC Berkeley](https://github.com/d2l-ai/berkeley-stat-157)
 
