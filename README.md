@@ -107,6 +107,10 @@
 
 * [Machine learning algorithms from scratch - Knn and Learn Regression](https://github.com/aurelien-peden/machine-learning-algorithms-from-scratch)
 
+## Data Science or Data Engineer 
+
+* [We Don’t Need Data Scientists, We Need Data Engineers](https://www.kdnuggets.com/2021/02/dont-need-data-scientists-need-data-engineers.html)
+
 
 
 
