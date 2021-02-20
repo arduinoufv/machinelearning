@@ -24,6 +24,8 @@
 ### including: 
 1. [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 2. [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
+### More....
+1. [How Convolutional Neural Networks Work (CNNs Explained & Visualized)](https://www.youtube.com/watch?v=pj9-rr1wDhM&feature=emb_logo) a video on visualizing convolutional networks, would mean a lot if you could let me know what you think about it....
 
 ## 3. Overview Keynotes/Lectures
 
