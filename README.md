@@ -26,6 +26,13 @@
 2. [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 ### More....
 1. [How Convolutional Neural Networks Work (CNNs Explained & Visualized)](https://www.youtube.com/watch?v=pj9-rr1wDhM&feature=emb_logo) a video on visualizing convolutional networks, would mean a lot if you could let me know what you think about it....
+2. [Neural Network that Changes Everything - Computerphile](https://www.youtube.com/watch?v=py5byOOHZM8&t=0s)
+3. [Deep Learning - Computerphile](https://www.youtube.com/watch?v=TJlAxW-2nmI)
+4. [Convolutional Neural Networks (CNNs) explained](https://www.youtube.com/watch?v=YRhxdVk_sIs&t=0s)
+5. [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+6. [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+7. [Gentle Dive into Math Behind Convolutional Neural Networks](https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9)
+8. 
 
 ## 3. Overview Keynotes/Lectures
 
