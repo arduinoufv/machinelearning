@@ -32,7 +32,7 @@
 5. [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 6. [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 7. [Gentle Dive into Math Behind Convolutional Neural Networks](https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9)
-8. 
+8. [Simple 4 min - How Convolutional Neural Networks Work | CNN's #1](https://www.youtube.com/watch?v=UzfRnZqPbCI)
 
 ## 3. Overview Keynotes/Lectures
 
