@@ -21,6 +21,10 @@
 * [I am AI - Aiva](https://www.youtube.com/watch?v=Emidxpkyk6o)
 * [Plutonium - Rock Song Composed by AI | AIVA](https://www.youtube.com/watch?v=i2TjTb_Psh8)
 
+# Visualize CNN
+
+[An Interactive Node-Link Visualization of Convolutional Neural Networks](https://www.cs.ryerson.ca/~aharley/vis/) MNIST EXAMPLE
+
 
 # Multitracking
 
