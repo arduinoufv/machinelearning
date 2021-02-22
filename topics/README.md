@@ -12,6 +12,10 @@
 [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) 26min  Brandon Rohrer
 ](https://www.youtube.com/watch?v=WCUNPb-5EYI&t=0s)
 
+# Reinforcement Learning
+
+[Introduction to Reinforcement Learning (Spring 2021) - Amir-massoud Farahmand- Toronto](https://amfarahmand.github.io/IntroRL/)
+
 # Encoders and Decoders
 
 [Variational Autoencoders 15min](https://www.youtube.com/watch?v=9zKuYvjFFS8&t=0s)
