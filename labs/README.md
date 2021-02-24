@@ -4,7 +4,7 @@
 
 # Sklearn
 
-* [Random Forest Lab](https://colab.research.google.com/drive/1BKk-W6sqW4rEU4Ei_L06P9rSGW94duGo?usp=sharing)
+* [Random Forest Lab](https://colab.research.google.com/drive/1BKk-W6sqW4rEU4Ei_L06P9rSGW94duGo?usp=sharing): 0-9 classification example in 8x8 pixels, Iris example
 
 # Tensor Flow
 
