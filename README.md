@@ -59,6 +59,8 @@
 
 4. [Machine Learning from Scratch Youtube playlist by Python Engineer: kmeans, knn, random forest, ....](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
 
+5. [New TensorFlow Course 2021 -  Daniel Bourke](https://www.youtube.com/watch?v=_WdcQOXIU7A)
+
 
 
 ## 5. Online Books
@@ -72,6 +74,9 @@
 [Dive into Deep Learning, Interactive deep learning book with code, math, and discussions, Implemented with NumPy/MXNet, PyTorch, and TensorFlow](http://d2l.ai/index.html) - [Github](https://github.com/d2l-ai/d2l-en)
 
 ## 6. Online Courses
+
+* [Zero to Mastery Machine Learning-  Daniel Bourke
+](https://github.com/mrdbourke/zero-to-mastery-ml)
 
 * [Machine Learning Engineering in 10 Weeks curriculum v1](https://jasonbenn.com/post/ml-in-10w-curriculum)  and [Jason Benn - learn machine learning](https://jasonbenn.com/post/how-i-learned-to-code#bonus-step-learn)
 
