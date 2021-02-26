@@ -8,7 +8,7 @@
 
 
 ## 1. Programming
-[Python and Colab](https://www.youtube.com/watch?v=QXOkPvFM6NU&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
+
 
 [Python, Colab and Machine Learning Notebooks](https://madewithml.com/courses/ml-foundations/notebooks/)
 
@@ -74,6 +74,8 @@
 [Dive into Deep Learning, Interactive deep learning book with code, math, and discussions, Implemented with NumPy/MXNet, PyTorch, and TensorFlow](http://d2l.ai/index.html) - [Github](https://github.com/d2l-ai/d2l-en)
 
 ## 6. Online Courses
+
+* [Machine Learning Main Algorithms](https://www.youtube.com/watch?v=QXOkPvFM6NU&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
 
 * [Zero to Mastery Machine Learning-  Daniel Bourke
 ](https://github.com/mrdbourke/zero-to-mastery-ml)
