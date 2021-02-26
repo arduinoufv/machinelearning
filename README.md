@@ -73,6 +73,8 @@
 
 [Dive into Deep Learning, Interactive deep learning book with code, math, and discussions, Implemented with NumPy/MXNet, PyTorch, and TensorFlow](http://d2l.ai/index.html) - [Github](https://github.com/d2l-ai/d2l-en)
 
+[The Hundred-Page Machine Learning Book](https://github.com/aburkov/theMLbook)
+
 ## 6. Online Courses
 
 * [Machine Learning Main Algorithms](https://www.youtube.com/watch?v=QXOkPvFM6NU&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
