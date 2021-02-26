@@ -1,6 +1,6 @@
 # Python
 
-[Lab 1. Introduction - Python Numpy Tutorial - Justin Johnson. - Stanford]()
+[Lab 1. Introduction - Python Numpy Tutorial - Justin Johnson. - Stanford](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb#scrollTo=cYb0pjh1L9eb)
 
 # Sklearn
 
