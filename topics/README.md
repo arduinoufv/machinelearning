@@ -1,3 +1,12 @@
+# Decision Trees and Random Forest
+
+[What are Decision Trees](https://www.python-course.eu/Decision_Trees.php) - From Python Machine Learning Tutorial - Bernd Klein 
+
+[to check later](https://blog.paperspace.com/decision-trees/)
+
+[to check later](https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/)
+
+
 # NN
 [The mostly complete chart of Neural Networks, explained](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 
