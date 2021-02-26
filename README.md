@@ -73,6 +73,8 @@
 
 ## 6. Online Courses
 
+* [Machine Learning Engineering in 10 Weeks curriculum v1](https://jasonbenn.com/post/ml-in-10w-curriculum)  and [Jason Benn - learn machine learning](https://jasonbenn.com/post/how-i-learned-to-code#bonus-step-learn)
+
 * [Cs231n - Stanford](http://cs231n.stanford.edu/syllabus.html)
 
 * [Make your own Machine Learning and Deep Learning degree, September 21, 2020 - Aurélien Peden](https://aurelienpeden.com/blog/2020/machine-learning-deep-learning-resources-degree/)
