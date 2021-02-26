@@ -1,5 +1,5 @@
 
-
+* [10 most read ML blogs](https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts)
 * [2020 - transformers-a-promising-new-technique-for-image-classification](https://ai.facebook.com/blog/data-efficient-image-transformers-a-promising-new-technique-for-image-classification/)
 * [Comprehensive Repository of Data Science and ML Resources](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
 * [66 job interview questions for data scientists](https://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists)
@@ -11,4 +11,4 @@
 
 # Formal Courses
 
-(Deep Learning Course of Unige/EPFL, François Fleuret's)[https://fleuret.org/dlc/]
+[Deep Learning Course of Unige/EPFL, François Fleuret's](https://fleuret.org/dlc/)
