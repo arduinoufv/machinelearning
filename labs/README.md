@@ -8,6 +8,9 @@
 
 # Tensor Flow
 
+# Keras
+
+* [Lab for enginners - Top level overview](https://colab.research.google.com/drive/1NPDNHUAq9tx1lxC4YIbBt8358Yc71H__#scrollTo=epfBqKarXseC)
 
 
 ## Laurence Moroney 
