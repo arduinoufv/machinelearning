@@ -17,9 +17,11 @@
 * [Knowledge Transfer in Self Supervised Learning](https://amitness.com/knowledge-transfer/)
 
 # Music
+* [Ted How AI could compose a personalized soundtrack to your life | Pierre Barreau](https://www.youtube.com/watch?v=wYb3Wimn01s)
 * [Bardo Composer](https://soundcloud.com/lucas-ferreira-83/sbbs-example1)
 * [I am AI - Aiva](https://www.youtube.com/watch?v=Emidxpkyk6o)
 * [Plutonium - Rock Song Composed by AI | AIVA](https://www.youtube.com/watch?v=i2TjTb_Psh8)
+* [Among Star](https://www.youtube.com/watch?v=K8UQAh5vHuE)
 
 # Visualize CNN
 
