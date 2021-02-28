@@ -21,6 +21,10 @@
 [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) 26min  Brandon Rohrer
 ](https://www.youtube.com/watch?v=WCUNPb-5EYI&t=0s)
 
+# Inception 
+
+[Short history of the Inception deep learning architecture](https://nicolovaligi.com/history-inception-deep-learning-architecture.html)
+
 # Reinforcement Learning
 
 [Introduction to Reinforcement Learning (Spring 2021) - Amir-massoud Farahmand- Toronto](https://amfarahmand.github.io/IntroRL/)
