@@ -1,3 +1,11 @@
+# SVM
+
+* [Introduction - Statquest](https://www.youtube.com/watch?v=efR1C6CvhmE&t=222s)
+
+* [Support Vector Machines (SVMs): A friendly introduction](https://www.youtube.com/watch?v=Lpr__X8zuE8)
+](https://www.youtube.com/watch?v=Lpr__X8zuE8)
+
+
 # Decision Trees and Random Forest
 
 [What are Decision Trees](https://www.python-course.eu/Decision_Trees.php) - From Python Machine Learning Tutorial - Bernd Klein 
