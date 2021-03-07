@@ -8,6 +8,8 @@
 
 # Decision Trees and Random Forest
 
+[Decision Tree (portuguese)](https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69)
+
 [What are Decision Trees](https://www.python-course.eu/Decision_Trees.php) - From Python Machine Learning Tutorial - Bernd Klein 
 
 [to check later](https://blog.paperspace.com/decision-trees/)
