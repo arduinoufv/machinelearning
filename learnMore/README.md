@@ -12,3 +12,5 @@
 # Formal Courses
 
 [Deep Learning Course of Unige/EPFL, François Fleuret's](https://fleuret.org/dlc/)
+
+[10-418 / 10-618 Fall 2019 Machine Learning for Structured Data CMU](http://www.cs.cmu.edu/~mgormley/courses/10418/)
