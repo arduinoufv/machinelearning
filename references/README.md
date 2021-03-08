@@ -5,6 +5,9 @@
 # Books
 
 * [Book - Deep-Learning with Python, Brownlee](https://machinelearningmastery.com/deep-learning-with-python/)
+* [E-book - Inteligência Artificial - Uma Abordagem de Aprendizado de Máquina
+ISBN: 9788521637493  Edição: 2|2021  Editora: LTC
+Katti Faceli, Ana Carolina Lorena, João Gama, Tiago Agostinho de Almeida e André C. P. L. F de Carva](https://www.grupogen.com.br/e-book-inteligencia-artificial-uma-abordagem-de-aprendizado-de-maquina?event-category=beon&event-action=details&event-label=produto_ultimos)
 
 
 # CNN Examples
