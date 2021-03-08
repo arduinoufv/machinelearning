@@ -1,3 +1,8 @@
+# Statistics
+
+[“What statistics should I know when starting out data science?” - Playlist Videos](https://www.youtube.com/playlist?list=PLFzsFUO-y0HDWkdsBMtufEThI2I3c9WlZ)
+
+
 # SVM
 
 * [Introduction - Statquest](https://www.youtube.com/watch?v=efR1C6CvhmE&t=222s)
@@ -49,4 +54,9 @@
 * [Introductory Video- Steven Brunton 15min](https://www.youtube.com/watch?v=fkf4IBRSeEc)
 * [book](http://databookuw.com/databook.pdf)
 * [ PCA and Regression labs](https://github.com/mml-book/mml-book.github.io/tree/master/tutorials)
+
+# Transformers
+
+[Transformers from scratch](http://peterbloem.nl/blog/transformers)
+
 
