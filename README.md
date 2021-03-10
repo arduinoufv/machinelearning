@@ -14,6 +14,8 @@
 
 [DataCamp: online interactive Python Tutorials for Data Science](https://www.learnpython.org/)
 
+[Introdução a Python no Colab (Português)](https://www.youtube.com/watch?v=7TLkf1l9wLg)
+
 
 ## 2. Friendly Introduction
 
