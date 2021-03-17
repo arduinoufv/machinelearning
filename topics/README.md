@@ -2,6 +2,10 @@
 
 [“What statistics should I know when starting out data science?” - Playlist Videos](https://www.youtube.com/playlist?list=PLFzsFUO-y0HDWkdsBMtufEThI2I3c9WlZ)
 
+# Loss
+
+[Cross-entropy for classification
+Binary, multi-class and multi-label classification](https://towardsdatascience.com/cross-entropy-for-classification-d98e7f974451)
 
 # SVM
 
@@ -34,6 +38,9 @@
 
 [Introduction to RNN - Lex Fridman - Video 2017 - 1h:17](https://www.youtube.com/watch?v=nFTQ7kHQWtc)
 [Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM) 26min  Brandon Rohrer
+
+## LSTM
+[Introduction to Long Short Term Memory (LSTM)](https://www.analyticsvidhya.com/blog/2021/03/introduction-to-long-short-term-memory-lstm/)
 ](https://www.youtube.com/watch?v=WCUNPb-5EYI&t=0s)
 
 # Inception 
