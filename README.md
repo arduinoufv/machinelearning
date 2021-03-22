@@ -61,7 +61,7 @@
 
 4. [Machine Learning from Scratch Youtube playlist by Python Engineer: kmeans, knn, random forest, ....](https://www.youtube.com/watch?v=ngLyX54e1LU&list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
 
-5. [New TensorFlow Course 2021 -  Daniel Bourke](https://www.youtube.com/watch?v=_WdcQOXIU7A)
+5. [New TensorFlow Course 2021 -  Daniel Bourke- 1h](https://www.youtube.com/watch?v=_WdcQOXIU7A) and  [Learn TensorFlow and Deep Learning fundamentals with Python (code-first introduction) Part 2 - 4h](https://www.youtube.com/watch?v=ZUKz4125WNI)
 
 
 
