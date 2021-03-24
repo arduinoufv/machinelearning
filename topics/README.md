@@ -34,6 +34,12 @@ Binary, multi-class and multi-label classification](https://towardsdatascience.c
 
 [Introduction to RNN - Lex Fridman - Video 2017 - 1:17](https://www.youtube.com/watch?v=nFTQ7kHQWtc)
 
+# CNN
+
+[
+How to Visualize Filters and Feature Maps in Convolutional Neural Networks
+](https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/)
+
 # RNN 
 
 [Introduction to RNN - Lex Fridman - Video 2017 - 1h:17](https://www.youtube.com/watch?v=nFTQ7kHQWtc)
