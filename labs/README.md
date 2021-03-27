@@ -11,6 +11,7 @@
 # Keras
 
 * [Lab for enginners - Top level overview](https://colab.research.google.com/drive/1NPDNHUAq9tx1lxC4YIbBt8358Yc71H__#scrollTo=epfBqKarXseC)
+* [Siamese network](https://colab.research.google.com/drive/1jTlD6XWTMYQmx0WQD_2WJxKNmfWIqorF?usp=sharing)
 
 
 ## Laurence Moroney 
