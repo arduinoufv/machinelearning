@@ -135,5 +135,16 @@
 * [We Don’t Need Data Scientists, We Need Data Engineers](https://www.kdnuggets.com/2021/02/dont-need-data-scientists-need-data-engineers.html)
 
 
+# Mobile
+
+* TensorFlow Hub has 1000's of models for you to take a look at!
+[You can start here](https://tfhub.dev/s?deployment-format=lite)
+
+* "Ok, can you guide me through a full example?"
+[Yes, of course](https://tensorflow.page.link/tflite-codelab)
+
+* Where can I find more sample code?" [The official repo has great samples](https://github.com/tensorflow/examples/tree/master/lite)
+* "Where can I find samples from the community?" [This repo is awesome and has a lot of great resources](https://github.com/margaretmz/awesome-tensorflow-lite)
+
 
 
