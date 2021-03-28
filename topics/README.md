@@ -37,6 +37,7 @@ Binary, multi-class and multi-label classification](https://towardsdatascience.c
 # Regression and Neural Networks
 
 * [Regression Tutorial with the Keras Deep Learning Library in Python](https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/)
+* [Colab example](https://colab.research.google.com/drive/1uP8AzqV9CvP3Qo4T1a9w6PmotkKwxPj4?usp=sharing)
 
 # CNN
 
