@@ -77,4 +77,8 @@ How to Visualize Filters and Feature Maps in Convolutional Neural Networks
 
 [Transformers from scratch](http://peterbloem.nl/blog/transformers)
 
+# Fuzzy K-means
+
+[Fuzzy kmeans]{https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_cmeans.html)
+
 
