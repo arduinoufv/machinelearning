@@ -65,6 +65,8 @@
 5. [New TensorFlow Course 2021 -  Daniel Bourke- 1h](https://www.youtube.com/watch?v=_WdcQOXIU7A) and  [Learn TensorFlow and Deep Learning fundamentals with Python (code-first introduction) Part 2 - 4h](https://www.youtube.com/watch?v=ZUKz4125WNI)
 
 6. [Auto Keras Tutorial](https://autokeras.com/tutorial/image_classification/)
+7. 
+8. [Keras resource examples](https://github.com/fchollet/keras-resources)
 
 ## 5. Online Books
 
