@@ -46,6 +46,15 @@ Binary, multi-class and multi-label classification](https://towardsdatascience.c
 How to Visualize Filters and Feature Maps in Convolutional Neural Networks
 ](https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/)
 
+## RESNET
+
+* [Revisiting ResNets: Improved Training and Scaling Strategies - March 2021](https://arxiv.org/abs/2103.07579)
+* [EfficientNetV2: Smaller Models and Faster Training - April 2021](https://arxiv.org/pdf/2104.00298.pdf)
+
+## Multimodal
+
+[Airbnb's Multimodal Deep Learning Neural Network ](https://medium.com/airbnb-engineering/widetext-a-multimodal-deep-learning-framework-31ce2565880c) - But what about all the information around the photos? Such as, captions, geo-location, quality.
+
 # RNN 
 
 [Introduction to RNN - Lex Fridman - Video 2017 - 1h:17](https://www.youtube.com/watch?v=nFTQ7kHQWtc)
@@ -62,6 +71,12 @@ How to Visualize Filters and Feature Maps in Convolutional Neural Networks
 # Reinforcement Learning
 
 [Introduction to Reinforcement Learning (Spring 2021) - Amir-massoud Farahmand- Toronto](https://amfarahmand.github.io/IntroRL/)
+
+# Self-Supervised Learning
+
+* [Self-supervised learning: The dark matter of intelligence - Yann Lecun](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence)
+* [Learning from videos to understand the world](https://ai.facebook.com/blog/learning-from-videos-to-understand-the-world/)
+* [SEER: The start of a more powerful, flexible, and accessible era for computer vision](https://ai.facebook.com/blog/seer-the-start-of-a-more-powerful-flexible-and-accessible-era-for-computer-vision)
 
 # Encoders and Decoders
 
