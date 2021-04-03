@@ -148,5 +148,8 @@
 * Where can I find more sample code?" [The official repo has great samples](https://github.com/tensorflow/examples/tree/master/lite)
 * "Where can I find samples from the community?" [This repo is awesome and has a lot of great resources](https://github.com/margaretmz/awesome-tensorflow-lite)
 
+# Portuguese
+
+* [E-book Redes neurais artificiais: teoria e aplicações](https://www.atenaeditora.com.br/wp-content/uploads/2019/05/e-book-Redes-Neurais-Artificiais-uma-Abordagem-para-Sala-de-Aula.pdf)
 
 
