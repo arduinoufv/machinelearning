@@ -36,3 +36,15 @@
 * [Tuning a wide and Deep model using Google Cloud](https://colab.research.google.com/github/tensorflow/cloud/blob/master/examples/hp_tuning_wide_and_deep_model.ipynb)
 * [Tuning CIFAR10 on Google Cloud with tensorflow_cloud and CloudTuner](https://colab.research.google.com/github/tensorflow/cloud/blob/master/examples/hp_tuning_cifar10_using_google_cloud.ipynb)
 
+
+# Pytorch
+
+[Medium_blog Pooja Mahajan](https://medium.com/@poojamahajan5131) and  [github plus colabs](https://github.com/poojamahajan0712/medium_blog)
+    * Tensors- Understanding tensors and tensor operations using PyTorch
+    * FMNIST_PyTorch- Building deep learning network using FMNIST dataset in PyTorch
+    * CIFAR_Resnet - Implementing Resnet18 on CIFAR-10 dataset in PyTorch
+    * Regularisation- Understanding impact of Dropout , L1 and L2 regularisations on MNIST dataset in PyTorch
+    * BN- Batch Normalisation - Impact of using Batch Normalisation in PyTorch
+    * NLP- Basic NLP techniques implementation in Python - (NER)
+    * TransferLearning- Transfer Learning implementation using Resnet18 model on CIFAR-10 dataset in PyTorch.
+
