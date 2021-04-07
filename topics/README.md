@@ -97,4 +97,12 @@ How to Visualize Filters and Feature Maps in Convolutional Neural Networks
 
 [Fuzzy kmeans](https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_cmeans.html)
 
+# DenseNET
+
+[Visualize Densenet](https://towardsdatascience.com/understanding-and-visualizing-densenets-7f688092391a)
+
+# Graph Networks
+
+[graph networks](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a)
+
 
