@@ -48,3 +48,5 @@
     * NLP- Basic NLP techniques implementation in Python - (NER)
     * TransferLearning- Transfer Learning implementation using Resnet18 model on CIFAR-10 dataset in PyTorch.
 
+[Neuromatch Academy Tutorial Materials](https://github.com/NeuromatchAcademy/course-content/tree/master/tutorials)
+
