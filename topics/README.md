@@ -34,6 +34,10 @@ Binary, multi-class and multi-label classification](https://towardsdatascience.c
 
 [Introduction to RNN - Lex Fridman - Video 2017 - 1:17](https://www.youtube.com/watch?v=nFTQ7kHQWtc)
 
+# batch normalization 
+
+[Batch Normaalization - Explanation Video 10 min + references](https://www.youtube.com/watch?v=DtEq44FTPM4)
+
 # Regression and Neural Networks
 
 * [Regression Tutorial with the Keras Deep Learning Library in Python](https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/)
