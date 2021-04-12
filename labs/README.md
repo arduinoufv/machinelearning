@@ -2,6 +2,9 @@
 
 [Lab 1. Introduction - Python Numpy Tutorial - Justin Johnson. - Stanford](https://colab.research.google.com/drive/10tEVVQ-aJ27I6NV17nVCEekNXOuxN_rm?usp=sharing)
 
+# Pandas
+
+[ml course + pandas](https://colab.research.google.com/drive/14Yn8x48f3OinesWNmkZHOyaVFkTusGbc?usp=sharing) lecture in [Youtube](https://www.youtube.com/watch?v=fwWCw_cE5aI&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX&index=4)
 # Sklearn
 
 * [Random Forest Lab](https://colab.research.google.com/drive/1BKk-W6sqW4rEU4Ei_L06P9rSGW94duGo?usp=sharing): 0-9 classification example in 8x8 pixels, Iris example
