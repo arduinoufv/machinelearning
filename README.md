@@ -16,12 +16,15 @@
 
 [Introdução a Python no Colab (Português)](https://www.youtube.com/watch?v=7TLkf1l9wLg)
 
+[Udacity - 5 weeks - free course](https://www.udacity.com/course/introduction-to-python--ud1110)
+
 
 ## 2. Friendly Introduction
 
 1. [Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4&list=PLs8w1Cdi-zvYKddqF_TFR7_yXuinufEPN)
 2. [Unsupervised Learning](https://www.youtube.com/watch?v=QXOkPvFM6NU&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
 3. [Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw&list=PLs8w1Cdi-zvavXlPXEAsWIh4Cgh83pZPO)
+4. [Pandas and ML - Course Youtube](https://mlcourse.ai/) plus [Lectures](https://mlcourse.ai/)
 
 ### including: 
 1. [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
