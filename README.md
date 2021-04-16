@@ -52,6 +52,7 @@
 6. [Join 20K+ developers in learning how to responsibly deliver value with applied ML.](https://madewithml.com/)
 7. [Roots of Data Science](https://towardsdatascience.com/the-roots-of-data-science-77c71115229)
 8. [Introduction to Machine Learning](https://hsf-training.github.io/hsf-training-ml-webpage/index.html)
+9. [#51 Francois Chollet - Intelligence and Generalisation](https://www.youtube.com/watch?v=J0p_thJJnoo)
 
 ## 4. Keras, Tensorflow, Colabs
 
