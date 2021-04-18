@@ -53,6 +53,7 @@
 7. [Roots of Data Science](https://towardsdatascience.com/the-roots-of-data-science-77c71115229)
 8. [Introduction to Machine Learning](https://hsf-training.github.io/hsf-training-ml-webpage/index.html)
 9. [#51 Francois Chollet - Intelligence and Generalisation](https://www.youtube.com/watch?v=J0p_thJJnoo)
+10. [01 – History and resources 2021 - Lecun](https://www.youtube.com/watch?v=mTtDfKgLm54)
 
 ## 4. Keras, Tensorflow, Colabs
 
