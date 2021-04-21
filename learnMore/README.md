@@ -1,3 +1,4 @@
+* [Interview Francois Chollet - Keras](https://thesequence.substack.com/p/chollet)
 * [Why is machine learning 'hard'?](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
 * [10 most read ML blogs](https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts)
 * [2020 - transformers-a-promising-new-technique-for-image-classification](https://ai.facebook.com/blog/data-efficient-image-transformers-a-promising-new-technique-for-image-classification/)
