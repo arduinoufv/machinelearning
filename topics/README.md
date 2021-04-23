@@ -47,9 +47,11 @@ Binary, multi-class and multi-label classification](https://towardsdatascience.c
 
 # CNN
 
-[
+* [
 How to Visualize Filters and Feature Maps in Convolutional Neural Networks
 ](https://machinelearningmastery.com/how-to-visualize-filters-and-feature-maps-in-convolutional-neural-networks/)
+
+* [Convolutions](https://github.com/vdumoulin/conv_arithmetic)
 
 ## RESNET
 
@@ -109,5 +111,14 @@ How to Visualize Filters and Feature Maps in Convolutional Neural Networks
 # Graph Networks
 
 [graph networks](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a)
+
+# Mobile 
+
+[Mobile and Pytorch](https://pytorch.org/mobile/home/)
+
+# Self-supervised
+
+[A library for state-of-the-art self-supervised learning](https://vissl.ai/)
+
 
 
