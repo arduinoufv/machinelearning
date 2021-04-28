@@ -85,6 +85,10 @@ How to Visualize Filters and Feature Maps in Convolutional Neural Networks
 * [Learning from videos to understand the world](https://ai.facebook.com/blog/learning-from-videos-to-understand-the-world/)
 * [SEER: The start of a more powerful, flexible, and accessible era for computer vision](https://ai.facebook.com/blog/seer-the-start-of-a-more-powerful-flexible-and-accessible-era-for-computer-vision)
 
+# Transformers
+
+[Colab - Modulated Detection for End-to-End Multi-Modal Understanding. MDETR detects any objects that are mentioned in free-form text. Code: http://github.com/ashkamath/mdetr](https://colab.research.google.com/github/ashkamath/mdetr/blob/colab/notebooks/MDETR_demo.ipynb#scrollTo=t0vg4rneXM6Y)
+
 # Encoders and Decoders
 
 [Variational Autoencoders 15min](https://www.youtube.com/watch?v=9zKuYvjFFS8&t=0s)
