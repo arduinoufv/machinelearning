@@ -15,8 +15,10 @@
 * [Introduction](https://jakevdp.github.io/PythonDataScienceHandbook/04.01-simple-line-plots.html)
 
 # Data Visualization Tools 
-*[Data-Driven Documents](https://d3js.org/)
-*[Data visualization made easy.](https://d3plus.org/)
+* [Data-Driven Documents](https://d3js.org/)
+* [Data visualization made easy.](https://d3plus.org/)
+* [Seminar](https://media.neurips.cc/Conferences/NIPS2018/Slides/Visualization_for_ML.pdf)
+
 
 # Sklearn
 
