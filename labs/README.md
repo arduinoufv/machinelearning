@@ -5,6 +5,19 @@
 # Pandas
 
 [ml course + pandas](https://colab.research.google.com/drive/14Yn8x48f3OinesWNmkZHOyaVFkTusGbc?usp=sharing) lecture in [Youtube](https://www.youtube.com/watch?v=fwWCw_cE5aI&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX&index=4)
+
+* [Charts and plots](https://colab.research.google.com/notebooks/charts.ipynb)
+* [Another example](https://jakevdp.github.io/PythonDataScienceHandbook/04.05-histograms-and-binnings.html)
+* 
+# Matplot
+
+* [Introduction](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
+* [Introduction](https://jakevdp.github.io/PythonDataScienceHandbook/04.01-simple-line-plots.html)
+
+# Data Visualization Tools 
+*[Data-Driven Documents](https://d3js.org/)
+*[Data visualization made easy.](https://d3plus.org/)
+
 # Sklearn
 
 * [Random Forest Lab](https://colab.research.google.com/drive/1BKk-W6sqW4rEU4Ei_L06P9rSGW94duGo?usp=sharing): 0-9 classification example in 8x8 pixels, Iris example
