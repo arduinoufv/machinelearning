@@ -21,6 +21,8 @@ Binary, multi-class and multi-label classification](https://towardsdatascience.c
 
 [What are Decision Trees](https://www.python-course.eu/Decision_Trees.php) - From Python Machine Learning Tutorial - Bernd Klein 
 
+[TF - Introducing TensorFlow Decision Forests](https://blog.tensorflow.org/2021/05/introducing-tensorflow-decision-forests.html)
+
 [to check later](https://blog.paperspace.com/decision-trees/)
 
 [to check later](https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/)
