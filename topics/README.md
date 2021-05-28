@@ -55,6 +55,14 @@ How to Visualize Filters and Feature Maps in Convolutional Neural Networks
 
 * [Convolutions](https://github.com/vdumoulin/conv_arithmetic)
 
+* [Deep Neural Networks are Easily Fooled:
+High Confidence Predictions for Unrecognizable Images](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.pdf)
+
+* [One Pixel Attack for Fooling
+Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
+
+* [Fooling neural networks](https://slazebni.cs.illinois.edu/fall18/lec12_adversarial.pdf)
+
 ## RESNET
 
 * [Revisiting ResNets: Improved Training and Scaling Strategies - March 2021](https://arxiv.org/abs/2103.07579)
