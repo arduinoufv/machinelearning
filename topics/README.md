@@ -25,6 +25,8 @@ Binary, multi-class and multi-label classification](https://towardsdatascience.c
 
 [Decision Tree (portuguese)](https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69)
 
+[Outra aula de Arvores de Decisao](https://www.youtube.com/watch?v=noy13V1nTz4)
+
 [What are Decision Trees](https://www.python-course.eu/Decision_Trees.php) - From Python Machine Learning Tutorial - Bernd Klein 
 
 [TF - Introducing TensorFlow Decision Forests](https://blog.tensorflow.org/2021/05/introducing-tensorflow-decision-forests.html)
