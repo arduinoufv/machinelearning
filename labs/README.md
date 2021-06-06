@@ -33,7 +33,7 @@
 * [Transfer Learning - Dog&cat + Xception 20M parameters](https://colab.research.google.com/drive/1GHHOFHPTYSHmc0mrBAfz94SLyH0UN-7z?usp=sharing)
 
 # Keras
-
+* [Book 2nd edition](https://github.com/fchollet/deep-learning-with-python-notebooks)
 * [Lab for enginners - Top level overview](https://colab.research.google.com/drive/1NPDNHUAq9tx1lxC4YIbBt8358Yc71H__#scrollTo=epfBqKarXseC)
 * [Siamese network](https://colab.research.google.com/drive/1jTlD6XWTMYQmx0WQD_2WJxKNmfWIqorF?usp=sharing)
 
