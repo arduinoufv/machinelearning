@@ -74,7 +74,7 @@
 7. [Keras resource examples](https://github.com/fchollet/keras-resources)
 
 8. [his is the repo supporting Intro to Data Science (DS-GA-1001) for the NYU Center for Data Science. For homework assignments, quizzes, exams and course grades, please log in to NYU Classes.](https://github.com/briandalessandro/DataScienceCourse/tree/master/ipython)
-9. 
+9. [Welcome to the Zero to Mastery TensorFlow for Deep Learning Book](https://dev.mrdbourke.com/tensorflow-deep-learning/)
 
 ## 5. Online Books
 
