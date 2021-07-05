@@ -106,6 +106,8 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 # Transformers
 
 [Colab - Modulated Detection for End-to-End Multi-Modal Understanding. MDETR detects any objects that are mentioned in free-form text. Code: http://github.com/ashkamath/mdetr](https://colab.research.google.com/github/ashkamath/mdetr/blob/colab/notebooks/MDETR_demo.ipynb#scrollTo=t0vg4rneXM6Y)
+[Transformers are really powerful, but can be confusing at first. That's why I built a transformer encoder layer from scratch in Keras, and used it to classify between programming languages: ](https://colab.research.google.com/drive/1kIwvckl5PFWkhb2BwYmgZuD9yId0pT05?usp=sharing)
+[Watch my tutorial to learn how it works](https://www.youtube.com/watch?v=kO0XdAsY5YA)
 
 # Encoders and Decoders
 
