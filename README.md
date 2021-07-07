@@ -54,6 +54,7 @@
 8. [Introduction to Machine Learning](https://hsf-training.github.io/hsf-training-ml-webpage/index.html)
 9. [#51 Francois Chollet - Intelligence and Generalisation](https://www.youtube.com/watch?v=J0p_thJJnoo)
 10. [01 – History and resources 2021 - Lecun](https://www.youtube.com/watch?v=mTtDfKgLm54)
+11. [The future of deep learning, according to its pioneers](https://bdtechtalks.com/2021/07/01/deep-learning-future-bengio-hinton-lecun/)
 
 ## 4. Keras, Tensorflow, Colabs
 
