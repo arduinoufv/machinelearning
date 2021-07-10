@@ -93,6 +93,10 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 
 [Short history of the Inception deep learning architecture](https://nicolovaligi.com/history-inception-deep-learning-architecture.html)
 
+## Object Detection
+
+[Object Detection course 5 hours](https://www.youtube.com/watch?v=yqkISICHH-U)
+
 # Reinforcement Learning
 
 [Introduction to Reinforcement Learning (Spring 2021) - Amir-massoud Farahmand- Toronto](https://amfarahmand.github.io/IntroRL/)
