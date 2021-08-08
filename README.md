@@ -12,6 +12,9 @@
 
 [Python, Colab and Machine Learning Notebooks](https://madewithml.com/courses/ml-foundations/notebooks/)
 
+[Dicas de Programação Python, Pandas, Matplotlib, NumPy](https://skytowner.com/)
+
+
 [DataCamp: online interactive Python Tutorials for Data Science](https://www.learnpython.org/)
 
 [Introdução a Python no Colab (Português)](https://www.youtube.com/watch?v=7TLkf1l9wLg)
@@ -25,6 +28,7 @@
 2. [Unsupervised Learning](https://www.youtube.com/watch?v=QXOkPvFM6NU&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
 3. [Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw&list=PLs8w1Cdi-zvavXlPXEAsWIh4Cgh83pZPO)
 4. [Pandas and ML - Course Youtube](https://mlcourse.ai/) plus [Lectures](https://mlcourse.ai/)
+5. [End-to-End Machine Learning Library](https://e2eml.school/blog.html)
 
 ### including: 
 1. [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
