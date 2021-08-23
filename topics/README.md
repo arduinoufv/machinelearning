@@ -138,7 +138,8 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 
 # Graph Networks
 
-[graph networks](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a)
+* [graph networks](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a)
+* [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) and [youtube channel](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
 # Mobile 
 
