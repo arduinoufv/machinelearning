@@ -3,6 +3,7 @@
 1. [Google books and online course](https://www.tensorflow.org/resources/learn-ml)
 2. [Laurence Moroney - Machine Learning Foundations is a free training course where you’ll learn the fundamentals of building machine learned models using TensorFlow](https://www.youtube.com/watch?v=_Z9TRANg4c0&feature=youtu.be)
 3. [Introduction in Colab format](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week1.ipynb#scrollTo=SSflbpxUWqTv)
+4. [This roadmap aims to give a complete picture of the modern data engineering landscape and serve as a study guide for aspiring data engineers.](https://github.com/datastacktv/data-engineer-roadmap)
 
 
 
@@ -59,6 +60,8 @@
 9. [#51 Francois Chollet - Intelligence and Generalisation](https://www.youtube.com/watch?v=J0p_thJJnoo)
 10. [01 – History and resources 2021 - Lecun](https://www.youtube.com/watch?v=mTtDfKgLm54)
 11. [The future of deep learning, according to its pioneers](https://bdtechtalks.com/2021/07/01/deep-learning-future-bengio-hinton-lecun/)
+12. [ML articles](https://nifesimifrank.hashnode.dev/)
+13. 
 
 ## 4. Keras, Tensorflow, Colabs
 
