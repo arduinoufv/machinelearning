@@ -1,3 +1,7 @@
+ * Numpy was first released in 1995 Exploding head
+ * For context PyTorch was released in 2016, TensorFlow in 2015 and Sklearn in 2007.
+
+
 # Machine Learning Introduction
 
 1. [Google books and online course](https://www.tensorflow.org/resources/learn-ml)
