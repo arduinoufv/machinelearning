@@ -32,6 +32,11 @@
 
 [Pytorch](https://github.com/open-mmlab/mmtracking)
 
+# Text Generation
+
+[Word-level text generation with Keras in <50 lines of code
+Get the IMDB movie review dataset](https://colab.research.google.com/drive/1B9yLXcJ7Q76EUoim-2Xy7Dk1gC1pFdU1)
+
 # AI in 2020
 [Andrew NG, December 2020](https://blog.deeplearning.ai/blog/the-batch-biggest-ai-stories-of-2020-covid-triage-fun-with-gans-disinfo-whack-a-mole-gpt-superstar-imagenet-recall-fda-approvals?utm_source=Social&utm_medium=Twitter&utm_campaign=TheBatch_12.23.20)
 
