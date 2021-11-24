@@ -9,6 +9,7 @@
 3. [Introduction in Colab format](https://colab.research.google.com/github/BlohmLab/MLtutorials/blob/master/week1.ipynb#scrollTo=SSflbpxUWqTv)
 4. [This roadmap aims to give a complete picture of the modern data engineering landscape and serve as a study guide for aspiring data engineers.](https://github.com/datastacktv/data-engineer-roadmap)
 
+5. [Most influence papers](https://60years.vizhub.ai/)
 
 
 
