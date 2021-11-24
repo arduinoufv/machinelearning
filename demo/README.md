@@ -12,6 +12,7 @@
 
 # Text to/from Images
 
+* [Image Captioning with VirTex model trained on RedCaps](https://huggingface.co/spaces/umichVision/virtex-redcaps)
 * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
 * [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
 * [ Chrome extension to read a paper + video](https://gist.github.com/amitness/9e5ad24ab963785daca41e2c4cfa9a82)
