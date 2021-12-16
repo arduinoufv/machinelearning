@@ -35,6 +35,8 @@ Binary, multi-class and multi-label classification](https://towardsdatascience.c
 
 [TF - Introducing TensorFlow Decision Forests](https://blog.tensorflow.org/2021/05/introducing-tensorflow-decision-forests.html)
 
+[Visualization DT](https://towardsdatascience.com/visualizing-decision-trees-with-pybaobabdt-f8eb5b3d0d17)
+
 [to check later](https://blog.paperspace.com/decision-trees/)
 
 [to check later](https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/)
