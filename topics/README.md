@@ -155,5 +155,9 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 
 [A library for state-of-the-art self-supervised learning](https://vissl.ai/)
 
+# Logitisc Regression and Classification
+
+[Animation tool](https://lisyarus.github.io/webgl/classification.html)
+
 
 
