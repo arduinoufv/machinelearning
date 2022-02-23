@@ -16,6 +16,11 @@
 ## 1. Programming
 
 
+[List of Data Science Cheatsheets to rule the world.](https://github.com/FavioVazquez/ds-cheatsheets)
+
+[Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis)
+
+
 [Python, Colab and Machine Learning Notebooks](https://madewithml.com/courses/ml-foundations/notebooks/)
 
 [Dicas de Programação Python, Pandas, Matplotlib, NumPy](https://skytowner.com/)
