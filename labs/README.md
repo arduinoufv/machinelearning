@@ -73,11 +73,10 @@
 [Neuromatch Academy Tutorial Materials](https://github.com/NeuromatchAcademy/course-content/tree/master/tutorials)
 
 
-# Suggestion
 
-[List of Data Science Cheatsheets to rule the world.](https://github.com/FavioVazquez/ds-cheatsheets)
 
-[Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis)
+
+# Data Visualization
 
 [Analyzing-Visualizing-Data-PowerBI](https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-PowerBI)
 
