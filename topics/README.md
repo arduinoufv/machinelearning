@@ -146,7 +146,10 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 
 * [graph networks](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a)
 * [CS224W: Machine Learning with Graphs](http://web.stanford.edu/class/cs224w/) and [youtube channel](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
-
+* [Graph Neural Network 15min Introduction](https://www.youtube.com/watch?v=GXhBEj1ZtE8&list=RDLVw6Pw4MOzMuo&index=4)
+* [Intro to graph neural networks 50 min + Colab exercise](https://www.youtube.com/watch?v=8owQBFAHw7E&list=RDLVw6Pw4MOzMuo&index=3)
+* [An Introduction to Graph Neural Networks: Models and Applications](https://www.youtube.com/watch?v=zCEYiCxrL_0&list=RDLVw6Pw4MOzMuo&index=14)
+* 
 # Mobile 
 
 [Mobile and Pytorch](https://pytorch.org/mobile/home/)
