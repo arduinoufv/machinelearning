@@ -123,6 +123,8 @@
 
 [STAT 157 at UC Berkeley](https://github.com/d2l-ai/berkeley-stat-157)
 
+* [Ciência de Dados e Aprendizado de Máquina](https://www.youtube.com/c/ML4U_Mello/playlists)
+
 ## 7. Courses and more ....
 
 0. CS229 Andrew NG - Machine Learning - plus [python version](https://github.com/dibgerge/ml-coursera-python-assignments)
