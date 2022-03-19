@@ -4,7 +4,11 @@
 * [Generate mandarin speech from text ](https://huggingface.co/spaces/eugenesiow/mandarin-tts)
 * [Text generation complete...](https://huggingface.co/spaces/mrm8488/GPT-J-6B)
 * [Small Object Detection with SAHI + YOLOv5](https://huggingface.co/spaces/fcakyon/sahi-yolov5)
-* 
+
+# Yolo 
+
+[Yolo demo in Website](https://microsoft.github.io/onnxjs-demo/#/yolo)
+
 # Text Generation
 
 [Abstract to Title](https://huggingface.co/shamikbose89/mt5-small-finetuned-arxiv-cs-finetuned-arxiv-cs-full?text=Natural+language+processing+encompasses+several+tasks%2C+one+of+which+is+the+automaticsimplification+of+texts.+Saying+whether+a+text+is+simpler+than+the+other+involves+not+onlytechnical+knowledge+about+the+language+being+analyzed%2C+but+also+a+cultural+knowledgeof+the+target+audience+to+which+the+text+is+being+directed%2C+making+simplificationan+even+more+complex+task.+In+Brazil%2C+around+30%25+of+the+population%2C+according+tothe+IBGE%2C+cannot+interpret+texts%2C+which+shows+the+importance+of+simplification+sothat+the+information+to+be+transmitted+can+reach+a+greater+number+of+people.+Thecurrent+metrics+used+to+say+how+good+the+simplification+done+by+Artificial+intelligence+algorithms+was%2C+is+based+on+more+consolidated+areas+of+study+in+linguistics%2C+such+astranslation+and+text+summarization%2C+and+may+not+be+appropriate+to+be+applied+in+theanalysis+of+automatic+methods+of+simplification.+In+this+article%2C+we+will+present+a+simplemetric+capable+of+quantifying+the+simplicity%2Fcomplexity+of+a+sentence+that+contributesto+the+task+of+automating+text+simplification+in+the+field+of+NLP.+The+results+of+thetests+performed+indicate+that+the+proposed+metric+has+the+potential+to+be+used+toevaluate+automatic+methods+of+simplification.)
