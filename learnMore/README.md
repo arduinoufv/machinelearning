@@ -1,3 +1,5 @@
+* [Deep Learning Boot Camp](https://simons.berkeley.edu/workshops/schedule/10624)
+* [ICLR 2021 Keynote - "Geometric Deep Learning: The Erlangen Programme of ML" - M Bronstein](https://www.youtube.com/watch?v=w6Pw4MOzMuo)
 * [Interview Francois Chollet - Keras](https://thesequence.substack.com/p/chollet)
 * [Why is machine learning 'hard'?](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
 * [10 most read ML blogs](https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts)
