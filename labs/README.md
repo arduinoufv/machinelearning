@@ -13,6 +13,7 @@
 
 * [Introduction](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
 * [Introduction](https://jakevdp.github.io/PythonDataScienceHandbook/04.01-simple-line-plots.html)
+* [Apresentar a biblioteca matplolib, e Pandas.plot.](https://colab.research.google.com/github/storopoli/ciencia-de-dados/blob/master/notebooks/Aula_9_graficos.ipynb)
 
 # Iris and Neural Networks
 
