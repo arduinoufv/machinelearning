@@ -11,6 +11,7 @@
 
 5. [Most influence papers](https://60years.vizhub.ai/)
 
+![](https://github.com/trekhleb/homemade-machine-learning/blob/master/images/machine-learning-map.png)
 
 
 ## 1. Programming
