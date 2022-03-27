@@ -1,3 +1,8 @@
+# demos no Binder
+
+[anomaly_detection, k_means, linear_regression, logistic_regression, neural_network](https://hub.gke2.mybinder.org/user/trekhleb-homema-achine-learning-pu9rpna8/tree/notebooks)
+
+
 # Applied Machine Learning 
 
 [Curated papers, articles, and blogs on data science & machine learning in production.](https://github.com/eugeneyan/applied-ml)
@@ -115,6 +120,11 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 
 # Transformers
 
+[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+[Transformer models: an introduction and catalog — 2022 Edition](https://xamat.medium.com/transformers-models-an-introduction-and-catalogue-2022-edition-2d1e9039f376)
+
+[Demo Transformer to image classification](https://colab.research.google.com/drive/13j_sZlPGS9oJqTAje4l6zyPX4JWQeQrG?usp=sharing)
+
 [Colab - Modulated Detection for End-to-End Multi-Modal Understanding. MDETR detects any objects that are mentioned in free-form text. Code: http://github.com/ashkamath/mdetr](https://colab.research.google.com/github/ashkamath/mdetr/blob/colab/notebooks/MDETR_demo.ipynb#scrollTo=t0vg4rneXM6Y)
 [Transformers are really powerful, but can be confusing at first. That's why I built a transformer encoder layer from scratch in Keras, and used it to classify between programming languages: ](https://colab.research.google.com/drive/1kIwvckl5PFWkhb2BwYmgZuD9yId0pT05?usp=sharing)
 [Watch my tutorial to learn how it works](https://www.youtube.com/watch?v=kO0XdAsY5YA)
@@ -134,7 +144,9 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 
 [Transformers from scratch](http://peterbloem.nl/blog/transformers)
 
-# Fuzzy K-means
+# K-means
+
+[Simple lab with Iris](https://hub.gke2.mybinder.org/user/trekhleb-homema-achine-learning-pu9rpna8/notebooks/notebooks/k_means/k_means_demo.ipynb)
 
 [Fuzzy kmeans](https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_cmeans.html)
 
