@@ -28,6 +28,7 @@
 * [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
 * [ Chrome extension to read a paper + video](https://gist.github.com/amitness/9e5ad24ab963785daca41e2c4cfa9a82)
 * [Image to text DEMO](https://huggingface.co/spaces/EleutherAI/magma)
+* [Awesome Text-to-Image - A collection of resources on text-to-image synthesis task.](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image)
 
 # Transfer Learning 
 
