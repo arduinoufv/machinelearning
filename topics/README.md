@@ -87,6 +87,11 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 * [Revisiting ResNets: Improved Training and Scaling Strategies - March 2021](https://arxiv.org/abs/2103.07579)
 * [EfficientNetV2: Smaller Models and Faster Training - April 2021](https://arxiv.org/pdf/2104.00298.pdf)
 
+# Convnet
+
+* [A ConvNet for the 2020s](https://github.com/facebookresearch/ConvNeXt)
+![](https://user-images.githubusercontent.com/8370623/148624004-e9581042-ea4d-4e10-b3bd-42c92b02053b.png)
+
 ## Multimodal
 
 [Airbnb's Multimodal Deep Learning Neural Network ](https://medium.com/airbnb-engineering/widetext-a-multimodal-deep-learning-framework-31ce2565880c) - But what about all the information around the photos? Such as, captions, geo-location, quality.
