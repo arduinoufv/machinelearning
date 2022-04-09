@@ -46,8 +46,12 @@ Binary, multi-class and multi-label classification](https://towardsdatascience.c
 
 [to check later](https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/)
 
+[colab to try later](https://colab.research.google.com/github/goodboychan/chans_jupyter/blob/master/_notebooks/2020-06-03-01-Decision-tree-for-classification.ipynb)
 
 # NN
+
+[Layers in a Neural Network explained](https://deeplizard.com/learn/video/FK77zZxaBoI)
+
 [The mostly complete chart of Neural Networks, explained](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 
 [T81-558: Applications of Deep Neural Networks, Jeff Heaton, McKelvey School of Engineering, Washington University in St. Louis](https://colab.research.google.com/github/jeffheaton/t81_558_deep_learning/blob/master/t81_558_class_03_1_neural_net.ipynb#scrollTo=xQ52BF0Gxzx8)
