@@ -145,10 +145,11 @@
 * Fei-Fei Li Stanford Professor: The year 2020 brought renewed federal support for universities and colleges. But more needs to be done. At the Stanford Institute for Human-Centered Artificial Intelligence (HAI), which I co-direct with John Etchemendy, we have proposed a National Research Cloud. This initiative would devote **$1 billion to $10 billion per year over 10 years** to recharge the partnership between academia, government, and industry. It would give U.S. academic researchers the compute and data they need to stay on the cutting edge, which in turn would attract and retain new crops of faculty and students, potentially reversing the current exodus of researchers from academia to industry.
 
 
+2. [Thinking Outside the Die: Architecting the ML Accelerator of the Future](https://www.youtube.com/watch?v=x2-qB0J7KHw&list=PL5Q2soXY2Zi9o_8dOpGMEeo3VpFWyIN4f&index=4)
 
-2. [Forgets GPT~3.  Real #AI news of 2020 is that @ylecun & Y Bengio have converged w @yudapearl, @emilybender, me, etc in realizing large language models are not enough -  to Next Decade in AI = deeper understanding & richer cognitive models, discussed here](https://arxiv.org/abs/2002.06177) 
+3. [Forgets GPT~3.  Real #AI news of 2020 is that @ylecun & Y Bengio have converged w @yudapearl, @emilybender, me, etc in realizing large language models are not enough -  to Next Decade in AI = deeper understanding & richer cognitive models, discussed here](https://arxiv.org/abs/2002.06177) 
 
-3. [Lecun Videos - Play List of Keynotes](https://www.youtube.com/playlist?list=PL80I41oVxglK--is17UhoHVosOLFEJzKQ)
+4. [Lecun Videos - Play List of Keynotes](https://www.youtube.com/playlist?list=PL80I41oVxglK--is17UhoHVosOLFEJzKQ)
 
 ## 9. Short Courses
 
