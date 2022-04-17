@@ -170,6 +170,7 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 * [Graph Neural Network 15min Introduction](https://www.youtube.com/watch?v=GXhBEj1ZtE8&list=RDLVw6Pw4MOzMuo&index=4)
 * [Intro to graph neural networks 50 min + Colab exercise](https://www.youtube.com/watch?v=8owQBFAHw7E&list=RDLVw6Pw4MOzMuo&index=3)
 * [An Introduction to Graph Neural Networks: Models and Applications](https://www.youtube.com/watch?v=zCEYiCxrL_0&list=RDLVw6Pw4MOzMuo&index=14)
+* [Announcing the Learning on Graphs Conference](https://michael-bronstein.medium.com/announcing-the-learning-on-graphs-conference-c63caed7347)
 * 
 # Mobile 
 
