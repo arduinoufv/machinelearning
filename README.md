@@ -126,6 +126,8 @@
 
 * [Ciência de Dados e Aprendizado de Máquina](https://www.youtube.com/c/ML4U_Mello/playlists)
 
+* [Deep Computer Vision](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv) + [schedule](https://dl4cv.github.io/schedule.html)
+
 ## 7. Courses and more ....
 
 0. CS229 Andrew NG - Machine Learning - plus [python version](https://github.com/dibgerge/ml-coursera-python-assignments)
