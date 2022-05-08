@@ -40,6 +40,7 @@
 3. [Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw&list=PLs8w1Cdi-zvavXlPXEAsWIh4Cgh83pZPO)
 4. [Pandas and ML - Course Youtube](https://mlcourse.ai/) plus [Lectures](https://mlcourse.ai/)
 5. [End-to-End Machine Learning Library](https://e2eml.school/blog.html)
+6. [Dicas de Pandas](https://shaileydash.medium.com/exploratory-data-analysis-cheatsheet-using-pandas-e0aab652375e)
 
 ### including: 
 1. [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
