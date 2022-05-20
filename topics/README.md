@@ -129,6 +129,8 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 
 # Transformers
 
+[Short Video](https://www.youtube.com/watch?v=-9vVhYEXeyQ)
+
 [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 [Transformer models: an introduction and catalog — 2022 Edition](https://xamat.medium.com/transformers-models-an-introduction-and-catalogue-2022-edition-2d1e9039f376)
 
