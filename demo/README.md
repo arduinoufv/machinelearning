@@ -15,6 +15,7 @@ A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/resea
 * **Gradio Blocks examples**
     * [Introduction to Blocks](https://gradio.app/introduction_to_blocks/)
     * [Pypi Dynamic Plots](https://huggingface.co/spaces/huggingface/library-metrics)   
+    * [Several Demos](https://huggingface.co/Gradio-Blocks)
 
 # Yolo 
 
@@ -26,7 +27,7 @@ A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/resea
 
 [Image Generation](http://gaugan.org/gaugan2/)
 
-
+[Imagen unprecedented photorealism × deep level of language understanding](https://imagen.research.google/) + [github&paper](https://github.com/lucidrains/imagen-pytorch)
 
 
 # GAN...does not exist
