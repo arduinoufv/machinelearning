@@ -25,6 +25,8 @@
 
 [Dicas de Programação Python, Pandas, Matplotlib, NumPy](https://skytowner.com/)
 
+[7 Advanced Python Features You Should Know About](https://medium.com/@alains/7-advanced-python-features-you-should-know-about-b0d98733efcd)
+
 
 [DataCamp: online interactive Python Tutorials for Data Science](https://www.learnpython.org/)
 
