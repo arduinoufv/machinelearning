@@ -34,6 +34,8 @@
 
 [Udacity - 5 weeks - free course](https://www.udacity.com/course/introduction-to-python--ud1110)
 
+[140 Python Projects with Source Code](https://medium.datadriveninvestor.com/140-python-projects-with-source-code-fa12c9e2aeac)
+
 
 ## 2. Friendly Introduction
 
