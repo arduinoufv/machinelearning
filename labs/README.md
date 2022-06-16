@@ -1,6 +1,10 @@
 # Python
 
-[Lab 1. Introduction - Python Numpy Tutorial - Justin Johnson. - Stanford](https://colab.research.google.com/drive/10tEVVQ-aJ27I6NV17nVCEekNXOuxN_rm?usp=sharing)
+* [Lab 1. Introduction - Python Numpy Tutorial - Justin Johnson. - Stanford](https://colab.research.google.com/drive/10tEVVQ-aJ27I6NV17nVCEekNXOuxN_rm?usp=sharing)
+* [A gentle guide to the Python features that I didn't know existed or was too afraid to use.](https://github.com/chiphuyen/python-is-cool/blob/master/cool-python-tips.ipynb)
+* [This repository contains implementation of useful data structures, algorithms, games](https://github.com/chiphuyen/coding-exercises)
+* 
+
 
 # Pandas
 
@@ -8,6 +12,7 @@
 
 * [Charts and plots](https://colab.research.google.com/notebooks/charts.ipynb)
 * [Another example](https://jakevdp.github.io/PythonDataScienceHandbook/04.05-histograms-and-binnings.html)
+* [This repo contains a few peculiar things that have made my life easier and my code faster - ChipHuyen](https://github.com/chiphuyen/just-pandas-things/blob/master/just-pandas-things.ipynb)
 * 
 # Matplot
 
