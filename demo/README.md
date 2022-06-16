@@ -12,6 +12,7 @@ A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/resea
 * [Generate mandarin speech from text ](https://huggingface.co/spaces/eugenesiow/mandarin-tts)
 * [Text generation complete...](https://huggingface.co/spaces/mrm8488/GPT-J-6B)
 * [Small Object Detection with SAHI + YOLOv5](https://huggingface.co/spaces/fcakyon/sahi-yolov5)
+* [Vit - Bamboo for Image Recognition Demo (https://github.com/Davidzhangyuanhan/Bamboo). ](https://huggingface.co/spaces/CVPR/Bamboo_ViT-B16_demo)
 * **Gradio Blocks examples**
     * [Introduction to Blocks](https://gradio.app/introduction_to_blocks/)
     * [Pypi Dynamic Plots](https://huggingface.co/spaces/huggingface/library-metrics)   
