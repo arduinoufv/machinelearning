@@ -13,7 +13,9 @@
 * [Charts and plots](https://colab.research.google.com/notebooks/charts.ipynb)
 * [Another example](https://jakevdp.github.io/PythonDataScienceHandbook/04.05-histograms-and-binnings.html)
 * [This repo contains a few peculiar things that have made my life easier and my code faster - ChipHuyen](https://github.com/chiphuyen/just-pandas-things/blob/master/just-pandas-things.ipynb)
-* 
+* [Read csv](https://towardsdatascience.com/its-time-to-say-goodbye-to-pd-read-csv-and-pd-to-csv-27fbc74e84c5)
+* [Mito - Interactive Python is Changing Data Science](https://jjdiamondreivich.medium.com/interactive-python-is-changing-data-science-e1e397ef6bbd) see the youtube [Video](https://www.youtube.com/watch?v=LFfWfqzdKyE)
+
 # Matplot
 
 * [Introduction](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/04.00-Introduction-To-Matplotlib.ipynb)
