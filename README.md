@@ -111,6 +111,8 @@
 
 [The Hundred-Page Machine Learning Book](https://github.com/aburkov/theMLbook)
 
+[Machine Learning Systems Design Chip Huyen](https://github.com/chiphuyen/machine-learning-systems-design)
+
 ## 6. Online Courses
 
 * [Machine Learning Main Algorithms](https://www.youtube.com/watch?v=QXOkPvFM6NU&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
