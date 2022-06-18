@@ -143,6 +143,8 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 
 [CvT: Introducing Convolutions to Vision Transformers.](https://github.com/microsoft/CvT)
 
+[SAVi++ is an object-centric video model based on Slot Attention for Video (SAVi), which encodes a video into a set of temporally-consistent latent variables (object slots). Objects are discovered, tracked, and segmented solely via the inductive bias](https://slot-attention-video.github.io/savi++/)
+
 # Encoders and Decoders
 
 [Variational Autoencoders 15min](https://www.youtube.com/watch?v=9zKuYvjFFS8&t=0s)
