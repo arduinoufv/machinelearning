@@ -118,6 +118,8 @@
 
 ## 6. Online Courses
 
+* [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners#machine-learning-for-beginners---a-curriculum)
+
 * [Machine Learning Main Algorithms](https://www.youtube.com/watch?v=QXOkPvFM6NU&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
 
 * [Zero to Mastery Machine Learning-  Daniel Bourke
