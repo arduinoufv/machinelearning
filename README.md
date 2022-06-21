@@ -114,6 +114,8 @@
 
 [Machine Learning Systems Design Chip Huyen](https://github.com/chiphuyen/machine-learning-systems-design)
 
+[Deep Learning book ONLINE in portuguese](https://www.deeplearningbook.com.br/)
+
 ## 6. Online Courses
 
 * [Machine Learning Main Algorithms](https://www.youtube.com/watch?v=QXOkPvFM6NU&list=PLs8w1Cdi-zvZGyT2Rt0ieA0G6xGUqn3Xw)
