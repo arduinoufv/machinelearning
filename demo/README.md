@@ -6,6 +6,7 @@ A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/resea
 # Gradio Demo
 
 * [Question and Answer](https://huggingface.co/spaces/gradio/question-answering)
+* [Yolo v6 Video](https://huggingface.co/spaces/nateraw/yolov6)
 * [Dall-e mini text to images](https://huggingface.co/spaces/dalle-mini/dalle-mini)
 * [Demo list](https://github.com/gradio-app/awesome-demos)
 * [Github gradio](https://github.com/gradio-app/gradio/tree/master/demo)
