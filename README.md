@@ -140,6 +140,8 @@
 
 * [Deep Computer Vision](https://www.youtube.com/playlist?list=PL_Z2_U9MIJdNgFM7-f2fZ9ZxjVRP_jhJv) + [schedule](https://dl4cv.github.io/schedule.html)
 
+* [Introduction to Machine Learning](https://sebastianraschka.com/blog/2021/ml-course.html)
+
 ## 7. Courses and more ....
 
 0. CS229 Andrew NG - Machine Learning - plus [python version](https://github.com/dibgerge/ml-coursera-python-assignments)
