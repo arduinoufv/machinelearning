@@ -7,6 +7,7 @@ A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/resea
 
 * [Question and Answer](https://huggingface.co/spaces/gradio/question-answering)
 * [Yolo v6 Video](https://huggingface.co/spaces/nateraw/yolov6)
+* [Semantic Segmentation with MobileViT and DeepLabV3](https://huggingface.co/spaces/Matthijs/mobilevit-deeplab-demo)
 * [Dall-e mini text to images](https://huggingface.co/spaces/dalle-mini/dalle-mini)
 * [Demo list](https://github.com/gradio-app/awesome-demos)
 * [Github gradio](https://github.com/gradio-app/gradio/tree/master/demo)
