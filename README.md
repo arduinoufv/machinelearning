@@ -37,6 +37,7 @@
 
 [140 Python Projects with Source Code](https://medium.datadriveninvestor.com/140-python-projects-with-source-code-fa12c9e2aeac)
 
+[130 Python Projects with Source Code](https://amankharwal.medium.com/130-python-projects-with-source-code-61f498591bb)
 
 ## 2. Friendly Introduction
 
