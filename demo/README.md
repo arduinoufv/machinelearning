@@ -7,6 +7,7 @@ A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/resea
 
 * [Question and Answer](https://huggingface.co/spaces/gradio/question-answering)
 * [Yolo v6 Video](https://huggingface.co/spaces/nateraw/yolov6)
+* [Drive&Segment: Unsupervised Semantic Segmentation of Urban Scenes via Cross-modal Distillation](https://huggingface.co/spaces/vobecant/DaS)
 * [Semantic Segmentation with MobileViT and DeepLabV3](https://huggingface.co/spaces/Matthijs/mobilevit-deeplab-demo)
 * {CVPR conference click on HF space](https://huggingface.co/spaces/CVPR/CVPR2022_papers)
 * [Dall-e mini text to images](https://huggingface.co/spaces/dalle-mini/dalle-mini)
