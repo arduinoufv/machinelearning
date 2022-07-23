@@ -15,6 +15,8 @@
 
 6. [6-machine-learning-algorithms-anyone-learning-data-science-should-know](https://towardsdatascience.com/6-machine-learning-algorithms-anyone-learning-data-science-should-know-cb6c388a6fb3)
 
+7. [Fast AI Course](https://course.fast.ai/)
+
 ## 1. Programming
 
 
