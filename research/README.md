@@ -1,3 +1,6 @@
+# Papers
+
+[Must-Read Papers in Computer Vision for the 2020s](https://towardsdatascience.com/must-read-papers-in-computer-vision-for-the-2020s-3943d5339ba4)
 # GPU and ML
 [H2O4GPU is a collection of GPU solvers by H2Oai with APIs in Python and R. H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K…](https://github.com/h2oai/h2o4gpu)
 
