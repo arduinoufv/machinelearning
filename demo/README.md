@@ -71,6 +71,10 @@ A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/resea
 
 [An Interactive Node-Link Visualization of Convolutional Neural Networks](https://www.cs.ryerson.ca/~aharley/vis/) MNIST EXAMPLE
 
+# visual effect
+
+[visual effect](http://www.ritsumei.ac.jp/~akitaoka/index-e.html)
+
 # transformers
 
 [This paper trains a Transformer to *directly predict docIDs* given a search query. This means the model weights themselves are the index. What does it mean? And how viable is this for real applications? ](https://www.youtube.com/watch?v=qlB0TPBQ7YY)
