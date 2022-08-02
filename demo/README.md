@@ -8,6 +8,7 @@ A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/resea
 * [Question and Answer](https://huggingface.co/spaces/gradio/question-answering)
 * [Yolo v6 Video](https://huggingface.co/spaces/nateraw/yolov6)
 * [Clustering and Sklearn](https://huggingface.co/spaces/scikit-learn/clustering)
+* [Vision-and-Language Transformer (ViLT), fine-tuned on VQAv2 ](https://huggingface.co/dandelin/vilt-b32-finetuned-vqa)
 * [Classification and Sklearn](https://huggingface.co/spaces/scikit-learn/classification)
 * [Week 1 Project: Building a Leaf Classification App](https://colab.research.google.com/drive/1b50WxRu4qjMuxH2SKgALeuVptBWBHb0q)
 * [Drive&Segment: Unsupervised Semantic Segmentation of Urban Scenes via Cross-modal Distillation](https://huggingface.co/spaces/vobecant/DaS)
