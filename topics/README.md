@@ -2,6 +2,8 @@
 
 [anomaly_detection, k_means, linear_regression, logistic_regression, neural_network](https://hub.gke2.mybinder.org/user/trekhleb-homema-achine-learning-pu9rpna8/tree/notebooks)
 
+[Regression Analysis Is Exceedingly Difficult: How to Master It Without Coding](https://pub.towardsai.net/regression-analysis-is-exceedingly-difficult-how-to-master-it-without-coding-542ae1d6edaf)
+
 
 # Applied Machine Learning 
 
@@ -127,7 +129,9 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 * [Learning from videos to understand the world](https://ai.facebook.com/blog/learning-from-videos-to-understand-the-world/)
 * [SEER: The start of a more powerful, flexible, and accessible era for computer vision](https://ai.facebook.com/blog/seer-the-start-of-a-more-powerful-flexible-and-accessible-era-for-computer-vision)
 
-# Transformers
+# Transformers and NLP
+
+[CS224n: Natural Language Processing with Deep Learning ](https://aman.ai/cs224n/)
 
 [Intuition Behind Self-Attention Mechanism in Transformer Networks](https://www.youtube.com/watch?v=g2BRIuln4uc&t=1s)
 [Short Video](https://www.youtube.com/watch?v=-9vVhYEXeyQ)
