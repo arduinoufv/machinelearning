@@ -28,6 +28,8 @@
 
 [Dicas de Programação Python, Pandas, Matplotlib, NumPy](https://skytowner.com/)
 
+[Scientific Computing in Python: Introduction to NumPy and Matplotlib](https://sebastianraschka.com/blog/2020/numpy-intro.html)
+
 [7 Advanced Python Features You Should Know About](https://medium.com/@alains/7-advanced-python-features-you-should-know-about-b0d98733efcd)
 
 
