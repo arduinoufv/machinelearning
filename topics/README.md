@@ -32,6 +32,8 @@ Binary, multi-class and multi-label classification](https://towardsdatascience.c
 
 # Decision Trees and Random Forest
 
+[Improving Production Workflows using Skops Python · Tabular Playground Series - Aug 2022](https://www.kaggle.com/code/huggingface/improving-production-workflows-using-skops)
+
 [Arvores de Decisão - Aula](https://www.youtube.com/watch?v=W7MfsE5av0c)
 
 [Decision Tree (portuguese)](https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69)
