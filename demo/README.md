@@ -13,6 +13,7 @@ A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/resea
 * [Week 1 Project: Building a Leaf Classification App](https://colab.research.google.com/drive/1b50WxRu4qjMuxH2SKgALeuVptBWBHb0q)
 * [Drive&Segment: Unsupervised Semantic Segmentation of Urban Scenes via Cross-modal Distillation](https://huggingface.co/spaces/vobecant/DaS)
 * [Semantic Segmentation with MobileViT and DeepLabV3](https://huggingface.co/spaces/Matthijs/mobilevit-deeplab-demo)
+* [Unsupervised Salient Object Detection with Spectral Cluster Voting](https://huggingface.co/spaces/noelshin/selfmask)
 * {CVPR conference click on HF space](https://huggingface.co/spaces/CVPR/CVPR2022_papers)
 * [Dall-e mini text to images](https://huggingface.co/spaces/dalle-mini/dalle-mini)
 * [Demo list](https://github.com/gradio-app/awesome-demos)
