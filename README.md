@@ -13,9 +13,11 @@
 
 ![](https://github.com/trekhleb/homemade-machine-learning/blob/master/images/machine-learning-map.png)
 
-6. [6-machine-learning-algorithms-anyone-learning-data-science-should-know](https://towardsdatascience.com/6-machine-learning-algorithms-anyone-learning-data-science-should-know-cb6c388a6fb3)
+6. [Top 9 Free Beginner Tutorials for Machine Learning (ML)](https://hackernoon.com/top-9-free-beginner-tutorials-for-machine-learning-ml)
 
-7. [Fast AI Course](https://course.fast.ai/)
+7. [6-machine-learning-algorithms-anyone-learning-data-science-should-know](https://towardsdatascience.com/6-machine-learning-algorithms-anyone-learning-data-science-should-know-cb6c388a6fb3)
+
+8. [Fast AI Course](https://course.fast.ai/)
 
 ## 1. Programming
 
