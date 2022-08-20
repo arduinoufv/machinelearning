@@ -151,6 +151,8 @@
 
 * [Introduction to Machine Learning](https://sebastianraschka.com/blog/2021/ml-course.html)
 
+* [Deep Learning Course François Fleuret's deep-learning courses 14x050 of the University of Geneva, Switzerland](https://fleuret.org/dlc/)
+
 ## 7. Courses and more ....
 
 0. CS229 Andrew NG - Machine Learning - plus [python version](https://github.com/dibgerge/ml-coursera-python-assignments)
