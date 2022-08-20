@@ -1,3 +1,5 @@
+[Deep learning course in Pytorch](https://fleuret.org/dlc/)
+
 [Learn in one Day](https://www.youtube.com/watch?v=Z_ikDlimN6A)
 
 [Linear Regression Animation](https://hackernoon.com/visualizing-linear-regression-with-pytorch-9261f49edb09)
