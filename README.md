@@ -47,6 +47,8 @@
 
 [60 Python Projects with Source Code](https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512)
 
+[190 Python Projects with Source Code](https://amankharwal.medium.com/130-python-projects-with-source-code-61f498591bb)
+
 ## 2. Friendly Introduction
 
 1. [Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4&list=PLs8w1Cdi-zvYKddqF_TFR7_yXuinufEPN)
