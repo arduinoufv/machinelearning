@@ -101,3 +101,6 @@ Get the IMDB movie review dataset](https://colab.research.google.com/drive/1B9yL
 # AI in 2020
 [Andrew NG, December 2020](https://blog.deeplearning.ai/blog/the-batch-biggest-ai-stories-of-2020-covid-triage-fun-with-gans-disinfo-whack-a-mole-gpt-superstar-imagenet-recall-fda-approvals?utm_source=Social&utm_medium=Twitter&utm_campaign=TheBatch_12.23.20)
 
+# Python
+
+[Jina-powered multi-user video chat in 20 lines of code, showcasing how to use Jina for building a real-time streaming solution.](https://github.com/jina-ai/jina-video-chat)
