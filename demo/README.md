@@ -10,6 +10,7 @@ A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/resea
 * [Clustering and Sklearn](https://huggingface.co/spaces/scikit-learn/clustering)
 * [Vision-and-Language Transformer (ViLT), fine-tuned on VQAv2 ](https://huggingface.co/dandelin/vilt-b32-finetuned-vqa)
 * [Classification and Sklearn](https://huggingface.co/spaces/scikit-learn/classification)
+* [How do you draw an owl: 1. draw some circles 2. click "Diffuse the rest"](https://huggingface.co/spaces/huggingface/diffuse-the-rest)
 * [Week 1 Project: Building a Leaf Classification App](https://colab.research.google.com/drive/1b50WxRu4qjMuxH2SKgALeuVptBWBHb0q)
 * [Drive&Segment: Unsupervised Semantic Segmentation of Urban Scenes via Cross-modal Distillation](https://huggingface.co/spaces/vobecant/DaS)
 * [Semantic Segmentation with MobileViT and DeepLabV3](https://huggingface.co/spaces/Matthijs/mobilevit-deeplab-demo)
