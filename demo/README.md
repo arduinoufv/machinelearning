@@ -32,6 +32,10 @@ A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/resea
 
 [Yolo demo in Website](https://microsoft.github.io/onnxjs-demo/#/yolo)
 
+# Q&A
+
+[Minerva - wo hundred undergraduate-level problems in physics, biology, chemistry, economics, and other sciences that require quantitative reasoning, and find that the model can correctly answer nearly a third of them. ](https://minerva-demo.github.io/#category=Biology&index=4)
+
 # Generation
 
 [Free GPT3](https://opt.alpa.ai/)
