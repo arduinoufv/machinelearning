@@ -35,6 +35,7 @@ A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/resea
 # Q&A
 
 [Minerva - wo hundred undergraduate-level problems in physics, biology, chemistry, economics, and other sciences that require quantitative reasoning, and find that the model can correctly answer nearly a third of them. ](https://minerva-demo.github.io/#category=Biology&index=4)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg2pZKEx3fN6YWcrhM2dxOYE6wZNm6ytbSTOl7SmDS0sXAwhBY10MiHa3NQ8JymJwJwwyVLcz5Kh96g9l2UgzBv_OaD-2PLGDMp8oWYcPI6q1d-pTp65ad2QFzK8fMp_l7bNe68qCOmNmwJD-U-_XlJOtjPheooUOv3nDvFMn9VLrO0HrL4WUzFXLsDQ/s16000/image7.gif)
 
 # Generation
 
