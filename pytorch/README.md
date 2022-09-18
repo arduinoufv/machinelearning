@@ -1,3 +1,5 @@
+[Zero to Mastery Learn PyTorch for Deep Learning  + Colabs](https://www.learnpytorch.io/01_pytorch_workflow/)
+
 [Deep learning course in Pytorch](https://fleuret.org/dlc/)
 
 [Learn in one Day](https://www.youtube.com/watch?v=Z_ikDlimN6A)
