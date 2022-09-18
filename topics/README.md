@@ -1,3 +1,6 @@
+
+
+
 # demos no Binder
 
 [anomaly_detection, k_means, linear_regression, logistic_regression, neural_network](https://hub.gke2.mybinder.org/user/trekhleb-homema-achine-learning-pu9rpna8/tree/notebooks)
@@ -69,6 +72,9 @@ Binary, multi-class and multi-label classification](https://towardsdatascience.c
 [Batch Normaalization - Explanation Video 10 min + references](https://www.youtube.com/watch?v=DtEq44FTPM4)
 
 # Regression and Neural Networks
+
+* [Logistic Regression](https://towardsdatascience.com/breaking-it-down-logistic-regression-e5c3f1450bd)
+
 
 * [Regression Tutorial with the Keras Deep Learning Library in Python](https://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/)
 * [Colab example](https://colab.research.google.com/drive/1uP8AzqV9CvP3Qo4T1a9w6PmotkKwxPj4?usp=sharing)
