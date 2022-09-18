@@ -52,6 +52,9 @@ Binary, multi-class and multi-label classification](https://towardsdatascience.c
 
 [Visualization DT](https://towardsdatascience.com/visualizing-decision-trees-with-pybaobabdt-f8eb5b3d0d17)
 
+[Luis Serrano Blog Decision Trees](https://medium.com/@luis.serrano/splitting-data-by-asking-questions-decision-trees-74afed9cd849)
+
+
 [to check later](https://blog.paperspace.com/decision-trees/)
 
 [to check later](https://www.analyticsvidhya.com/blog/2016/04/tree-based-algorithms-complete-tutorial-scratch-in-python/)
