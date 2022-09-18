@@ -1,5 +1,8 @@
 
+#  Diffusion
 
+[Stable Diffusion implemented using @Tensorflow
+  and #Keras. ](https://github.com/divamgupta/stable-diffusion-tensorflow) + demo/colab [Divam Gupta,Includes Gradio demo](https://colab.research.google.com/drive/1fBlfPsL5DEscub0O_3oJNnJbON4w3EKq?usp=sharing)
 
 # demos no Binder
 
