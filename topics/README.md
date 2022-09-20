@@ -180,6 +180,8 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 
 # K-means
 
+[free book for Clustering](https://haralick.org/ML/data_clustering.pdf)
+
 [Simple lab with Iris](https://hub.gke2.mybinder.org/user/trekhleb-homema-achine-learning-pu9rpna8/notebooks/notebooks/k_means/k_means_demo.ipynb)
 
 [Fuzzy kmeans](https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_cmeans.html)
