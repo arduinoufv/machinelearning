@@ -144,6 +144,7 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 * [SEER: The start of a more powerful, flexible, and accessible era for computer vision](https://ai.facebook.com/blog/seer-the-start-of-a-more-powerful-flexible-and-accessible-era-for-computer-vision)
 
 # Transformers and NLP
+[Video - 56min - Transformers with Lucas Beyer, Google Brain](https://www.youtube.com/watch?v=EixI6t5oif0) + [slides](https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/edit#slide=id.g31364026ad_3_2)
 
 [CS224n: Natural Language Processing with Deep Learning ](https://aman.ai/cs224n/)
 
