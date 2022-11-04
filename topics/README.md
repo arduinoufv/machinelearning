@@ -102,6 +102,12 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 
 * [Fooling neural networks](https://slazebni.cs.illinois.edu/fall18/lec12_adversarial.pdf)
 
+## Convolution and Regression
+
+[Regression with Keras](https://pyimagesearch.com/2019/01/21/regression-with-keras/)
+
+[Estimating Body Mass Index from Face Images Using Keras and Transfer Learning](https://medium.com/@leosimmons/estimating-body-mass-index-from-face-images-using-keras-and-transfer-learning-de25e1bc0212)
+
 ## RESNET
 
 * [Revisiting ResNets: Improved Training and Scaling Strategies - March 2021](https://arxiv.org/abs/2103.07579)
