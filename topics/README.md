@@ -1,6 +1,20 @@
 # Federated Learning
 
 [How Federated Learning Protects Privacy](https://pair.withgoogle.com/explorables/federated-learning/?linkId=8336466)
+[ "2022 Workshop on Federated Learning and Analytics" ](https://twitter.com/peter_richtarik/status/1590790131396804608?s=20&t=7K40n2NunrHJpx0dvlQGIA)
+
+
+# Tabular data
+
+[Keras, NN, Tabular Data](https://keras.io/examples/structured_data/structured_data_classification_with_feature_space/)
+
+# Times Series
+
+[Time Series framwork Tsai](https://github.com/timeseriesAI/tsai)
+
+# tools
+[AWS AutoGluon: AutoML for Text, Image, and Tabular Data](https://auto.gluon.ai/stable/index.html)
+
 
 
 #  Diffusion
@@ -154,6 +168,9 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 * [SEER: The start of a more powerful, flexible, and accessible era for computer vision](https://ai.facebook.com/blog/seer-the-start-of-a-more-powerful-flexible-and-accessible-era-for-computer-vision)
 
 # Transformers and NLP
+
+[Visualizing Transformers](https://github.com/jessevig/bertviz)
+
 [CS224n: Natural Language Processing with Deep Learning ](https://aman.ai/cs224n/)
 
 [Intuition Behind Self-Attention Mechanism in Transformer Networks](https://www.youtube.com/watch?v=g2BRIuln4uc&t=1s)
