@@ -1,3 +1,7 @@
+# Federated Learning
+
+[How Federated Learning Protects Privacy](https://pair.withgoogle.com/explorables/federated-learning/?linkId=8336466)
+
 
 #  Diffusion
 
