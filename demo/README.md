@@ -102,6 +102,8 @@
 ![](https://github.com/eladrich/latent-nerf/raw/main/docs/car.gif)
 [DiffEdit - Semantic Image Editing with Stable Diffusion](https://www.storminthecastle.com/posts/diffedit/) ![](https://www.storminthecastle.com/img/diffedit.png)
 
+[This demo compares VQ-Diffusion-ITHQ and Stable-Diffusion-v1-5 for text to image generation.](https://huggingface.co/spaces/patrickvonplaten/vq-vs-stable-diffusion)
+
 # Nvidia
 
 [AI PLAYGROUND
