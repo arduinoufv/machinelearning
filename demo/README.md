@@ -1,7 +1,11 @@
+# Demos
+
+[Creating visualizations for presentations sucks.](https://www.chula.ai/)
 
 
 # Gradio Demo
 
+* [Gradio demo for VideoMAE for video classification. To use it, simply upload your video or click one of the examples to load them. Read more at the links below.](https://huggingface.co/spaces/sayakpaul/video-classification-ucf101-subset)
 * [Question and Answer](https://huggingface.co/spaces/gradio/question-answering)
 * [Yolo v6 Video](https://huggingface.co/spaces/nateraw/yolov6)
 * [Clustering and Sklearn](https://huggingface.co/spaces/scikit-learn/clustering)
