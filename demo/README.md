@@ -1,7 +1,4 @@
-# Nvidia
 
-[AI PLAYGROUND
-A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/research/ai-playground/)
 
 # Gradio Demo
 
@@ -95,6 +92,14 @@ A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/resea
 
 [ViT Visual Transformers](https://huggingface.co/spaces/Hila/RobustViT)
 
+# Diffusion and 3D
+
+[Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://github.com/eladrich/latent-nerf)
+
+# Nvidia
+
+[AI PLAYGROUND
+A Interseção da AI, da Arte e da Ciência.](https://www.nvidia.com/pt-br/research/ai-playground/)
 
 
 # Multitracking
