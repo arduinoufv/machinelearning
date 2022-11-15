@@ -95,6 +95,8 @@
 # Diffusion and 3D
 
 [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://github.com/eladrich/latent-nerf)
+![](https://github.com/eladrich/latent-nerf/raw/main/docs/car.gif)
+[DiffEdit - Semantic Image Editing with Stable Diffusion](https://www.storminthecastle.com/posts/diffedit/) ![](https://www.storminthecastle.com/img/diffedit.png)
 
 # Nvidia
 
