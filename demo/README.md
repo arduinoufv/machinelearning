@@ -2,6 +2,8 @@
 
 [Creating visualizations for presentations sucks.](https://www.chula.ai/)
 
+[Generate article from few words](https://galactica.org/)
+
 
 # Gradio Demo
 
