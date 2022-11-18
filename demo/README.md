@@ -4,6 +4,8 @@
 
 [Generate article from few words](https://galactica.org/)
 
+[Dream Studio](https://beta.dreamstudio.ai/dream)
+
 
 # Gradio Demo
 
