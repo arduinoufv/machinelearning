@@ -6,6 +6,10 @@
 
 [Dream Studio](https://beta.dreamstudio.ai/dream)
 
+[InstructPix2Pix
+Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/instruct-pix2pix)
+![](https://instruct-pix2pix.timothybrooks.com/man.jpg)
+
 
 # Gradio Demo
 
