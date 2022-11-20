@@ -19,6 +19,9 @@
 
 8. [Fast AI Course](https://course.fast.ai/)
 
+9. [top 8 algorithms](https://datasciencedojo.com/blog/machine-learning-algorithms-explanation/?utm_campaign=DSD%20blogs%202022&utm_content=228486926&utm_medium=social&utm_source=twitter&hss_channel=tw-1318985240)
+
+![](https://datasciencedojo.com/wp-content/uploads/ML-algorithm-1030x1030.png)
 ## 1. Programming
 
 
