@@ -16,6 +16,7 @@ Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/ins
 * [Gradio demo for VideoMAE for video classification. To use it, simply upload your video or click one of the examples to load them. Read more at the links below.](https://huggingface.co/spaces/sayakpaul/video-classification-ucf101-subset)
 * [Question and Answer](https://huggingface.co/spaces/gradio/question-answering)
 * [Yolo v6 Video](https://huggingface.co/spaces/nateraw/yolov6)
+* [Anime](https://huggingface.co/spaces/Evel/Evel_Space)
 * [Clustering and Sklearn](https://huggingface.co/spaces/scikit-learn/clustering)
 * [Vision-and-Language Transformer (ViLT), fine-tuned on VQAv2 ](https://huggingface.co/dandelin/vilt-b32-finetuned-vqa)
 * [Extremely-Fast diffusion text-to-speech synthesis pipeline with ProDiff and FastDiff](https://huggingface.co/spaces/Rongjiehuang/ProDiff)
