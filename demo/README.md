@@ -1,3 +1,8 @@
+# Gallery Dall-e
+* [Google Doc  A cat sitting in a chair, wearing a pair of sunglasses](https://docs.google.com/document/d/11WlzjBT0xRpQhP9tFMtxzd0q6ANIdHPUBkMV-YB043U/edit#heading=h.fe0kfnfhh2yf)
+
+* [DALL·E 2 and AI art prompt resources & tools to inspire beautiful images](http://dallery.gallery/prompt-resources-tools-ai-art/)
+
 # Demos
 
 [Creating visualizations for presentations sucks.](https://www.chula.ai/)
