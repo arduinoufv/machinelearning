@@ -6,6 +6,8 @@
 # [ChatGPT](https://chat.openai.com/chat)
 
 * [ Voice -> text -> chatgpt -> text -> voice ](https://huggingface.co/spaces/sanchit-gandhi/chatGPT)
+* [brain Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+
 
 
 # Demos
