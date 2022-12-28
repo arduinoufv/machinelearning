@@ -12,6 +12,8 @@
 
 # Demos
 
+[Have you ever imagined what a corgi-alike coffee machine or a tiger-alike rabbit would look like? ](https://huggingface.co/spaces/daspartho/MagicMix)
+
 [code generator](https://huggingface.co/spaces/bigcode/santacoder-demo)
 
 [Creating visualizations for presentations sucks.](https://www.chula.ai/)
