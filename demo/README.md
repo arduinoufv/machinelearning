@@ -12,6 +12,8 @@
 
 # Demos
 
+[how to use Keras and Diffusion](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/)
+
 [Have you ever imagined what a corgi-alike coffee machine or a tiger-alike rabbit would look like? ](https://huggingface.co/spaces/daspartho/MagicMix)
 
 [code generator](https://huggingface.co/spaces/bigcode/santacoder-demo)
