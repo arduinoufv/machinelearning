@@ -12,6 +12,8 @@
 
 # Demos
 
+[Image Similarity with Hugging Face Datasets and Transformers](https://huggingface.co/blog/image-similarity)
+
 [how to use Keras and Diffusion](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/)
 
 [Have you ever imagined what a corgi-alike coffee machine or a tiger-alike rabbit would look like? ](https://huggingface.co/spaces/daspartho/MagicMix)
