@@ -135,6 +135,8 @@
 
 ## 6. Online Courses
 
+* [Deep learning CMU 2022 playlist](https://www.youtube.com/playlist?list=PLp-0K3kfddPxRmjgjm0P1WT6H-gTqE8j9)
+
 * [Artificial Intelligence for Beginners - A Curriculum](https://github.com/microsoft/AI-For-Beginners)
 
 * [Machine Learning for Beginners - A Curriculum](https://github.com/microsoft/ML-For-Beginners#machine-learning-for-beginners---a-curriculum)
