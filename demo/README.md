@@ -8,7 +8,7 @@
 * [ Voice -> text -> chatgpt -> text -> voice ](https://huggingface.co/spaces/sanchit-gandhi/chatGPT)
 * [brain Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 
-* [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+* [Let's build GPT: from scratch, in code, spelled out Video](https://www.youtube.com/watch?v=kCc8FmEb1nY) plus [Colab](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)
 
 # Demos
 
