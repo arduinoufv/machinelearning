@@ -1,3 +1,6 @@
+[ChatGPT is not all you need. A State of the Art
+Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
+
 # Gallery Dall-e
 * [Google Doc  A cat sitting in a chair, wearing a pair of sunglasses](https://docs.google.com/document/d/11WlzjBT0xRpQhP9tFMtxzd0q6ANIdHPUBkMV-YB043U/edit#heading=h.fe0kfnfhh2yf)
 
