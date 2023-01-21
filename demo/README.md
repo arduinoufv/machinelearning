@@ -15,6 +15,8 @@ Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
 
 # Demos
 
+[Editando Images com comandos em texto](https://huggingface.co/spaces/timbrooks/instruct-pix2pix)
+
 [Image Similarity with Hugging Face Datasets and Transformers](https://huggingface.co/blog/image-similarity)
 
 [how to use Keras and Diffusion](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/)
