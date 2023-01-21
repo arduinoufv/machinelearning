@@ -16,6 +16,7 @@ Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
 # Demos
 
 [Editando Images com comandos em texto](https://huggingface.co/spaces/timbrooks/instruct-pix2pix)
+![](https://github.com/arduinoufv/machinelearning/blob/main/demo/Captura%20de%20tela%20de%202023-01-21%2008-03-04.png?raw=true)
 
 [Image Similarity with Hugging Face Datasets and Transformers](https://huggingface.co/blog/image-similarity)
 
