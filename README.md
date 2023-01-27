@@ -119,6 +119,8 @@
 
 ## 5. Online Books
 
+[Understanding Deep Learning - by Simon J.D. Prince - To be published by MIT Press. ](https://udlbook.github.io/udlbook/)
+
 [Github, Author Aurélien Géron,Released September 2019](https://github.com/ageron/handson-ml2) - Book - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?dchild=1&keywords=Hands-On+Machine+Learning&qid=1597178878&s=books&sr=1-1)
 
 [ Python Data Science Handbook by Jake VanderPlas ](https://jakevdp.github.io/PythonDataScienceHandbook/)
