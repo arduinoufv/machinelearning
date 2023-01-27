@@ -13,6 +13,8 @@ Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
 
 * [Let's build GPT: from scratch, in code, spelled out Video](https://www.youtube.com/watch?v=kCc8FmEb1nY) plus [Colab](https://colab.research.google.com/drive/1JMLa53HDuA-i7ZBmqV7ZnA3c_fvtXnx-?usp=sharing)
 
+[Hugging Face Transformers Examples](https://www.philschmid.de/huggingface-transformers-examples)
+
 # Demos
 
 [Editando Images com comandos em texto](https://huggingface.co/spaces/timbrooks/instruct-pix2pix) and [colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/InstructPix2Pix_using_diffusers.ipynb)
