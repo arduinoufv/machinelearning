@@ -169,6 +169,7 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 
 # Transformers and NLP
 
+[Hugging Face Transformers Examples](https://www.philschmid.de/huggingface-transformers-examples)
 [Visualizing Transformers](https://github.com/jessevig/bertviz)
 
 [CS224n: Natural Language Processing with Deep Learning ](https://aman.ai/cs224n/)
