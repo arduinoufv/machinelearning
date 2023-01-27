@@ -21,6 +21,8 @@ Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
 
 [Image Similarity with Hugging Face Datasets and Transformers](https://huggingface.co/blog/image-similarity)
 
+[TorchYolo: YOLO Series Object Detection and Track Algorithm Library](https://huggingface.co/spaces/kadirnar/torchyolo)
+
 [how to use Keras and Diffusion](https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/)
 
 [Have you ever imagined what a corgi-alike coffee machine or a tiger-alike rabbit would look like? ](https://huggingface.co/spaces/daspartho/MagicMix)
