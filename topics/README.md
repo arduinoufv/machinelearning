@@ -3,6 +3,9 @@
 [How Federated Learning Protects Privacy](https://pair.withgoogle.com/explorables/federated-learning/?linkId=8336466)
 [ "2022 Workshop on Federated Learning and Analytics" ](https://twitter.com/peter_richtarik/status/1590790131396804608?s=20&t=7K40n2NunrHJpx0dvlQGIA)
 
+# Chat GPT
+
+[Open-Source ChatGPT Build a chatbot for your own data with open source LLM](https://www.producthunt.com/posts/open-source-chatgpt)
 
 # Tabular data
 
@@ -21,6 +24,8 @@
 
 [Stable Diffusion implemented using @Tensorflow
   and #Keras. ](https://github.com/divamgupta/stable-diffusion-tensorflow) + demo/colab [Divam Gupta,Includes Gradio demo](https://colab.research.google.com/drive/1fBlfPsL5DEscub0O_3oJNnJbON4w3EKq?usp=sharing)
+  
+  [Running Stable Diffusion Locally & in Cloud with Diffusers & dstack ](https://dev.to/dstack/running-stable-diffusion-locally-in-cloud-with-diffusers-dstack-41n0)
 
 # demos no Binder
 
