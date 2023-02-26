@@ -175,6 +175,8 @@ Deep Neural Networks](https://arxiv.org/pdf/1710.08864.pdf)
 
 # Transformers and NLP
 
+[A curated list of awesome transformer models.](https://github.com/abacaj/awesome-transformers)
+
 [Hugging Face Transformers Examples](https://www.philschmid.de/huggingface-transformers-examples)
 [Visualizing Transformers](https://github.com/jessevig/bertviz)
 
