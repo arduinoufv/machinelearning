@@ -8,6 +8,7 @@ Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
 
 # [ChatGPT](https://chat.openai.com/chat)
 
+* [demo de chat gpt](https://huggingface.co/spaces/anzorq/chatgpt-demo)
 * [ Voice -> text -> chatgpt -> text -> voice ](https://huggingface.co/spaces/sanchit-gandhi/chatGPT)
 * [brain Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 
