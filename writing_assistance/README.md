@@ -1,2 +1,3 @@
-[You Write,Jenni completes](https://jenni.ai/)
-[paper pal](https://edit.paperpal.com/)
+* [You Write,Jenni completes](https://jenni.ai/)
+
+* [paper pal](https://edit.paperpal.com/)
