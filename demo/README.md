@@ -18,6 +18,8 @@ Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
 
 # Demos
 
+[object detection](https://huggingface.co/spaces/ShilongLiu/Grounding_DINO_demo]
+
 [Segment Anything Model (SAM): a new AI model from Meta AI that can "cut out" any object, in any image, with a single click](https://segment-anything.com/)
 
 [Difusao Video + Text Command](https://huggingface.co/spaces/fffiloni/Pix2Pix-Video)
