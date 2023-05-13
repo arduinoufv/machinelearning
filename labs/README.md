@@ -8,6 +8,8 @@
 
 # Pandas
 
+[10 minutes pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+
 [ml course + pandas](https://colab.research.google.com/drive/14Yn8x48f3OinesWNmkZHOyaVFkTusGbc?usp=sharing) lecture in [Youtube](https://www.youtube.com/watch?v=fwWCw_cE5aI&list=PLVlY_7IJCMJeRfZ68eVfEcu-UcN9BbwiX&index=4)
 
 * [Charts and plots](https://colab.research.google.com/notebooks/charts.ipynb)
