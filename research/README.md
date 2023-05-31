@@ -1,5 +1,7 @@
 # Papers
 
+[papers Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
+
 [best papers in 2022](https://www.linkedin.com/posts/sergios-karagiannakos_how-diffusion-models-work-the-math-from-activity-7014538075762515968-roCq/?utm_source=share&utm_medium=member_desktop)
 
 [Must-Read Papers in Computer Vision for the 2020s](https://towardsdatascience.com/must-read-papers-in-computer-vision-for-the-2020s-3943d5339ba4)
