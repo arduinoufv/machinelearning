@@ -1,3 +1,5 @@
+[GAN](https://poloclub.github.io/ganlab/)
+
 [ChatGPT is not all you need. A State of the Art
 Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
 
