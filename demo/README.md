@@ -20,6 +20,10 @@ Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
 
 # Demos
 
+[pixelart](https://huggingface.co/nerijs/pixel-art-xl?text=pixel+art%2C+capivara%2C++simple%2C+flat+colors)
+
+[image to story](https://huggingface.co/spaces/fffiloni/Image-to-Story)
+
 [tag 2 text](https://huggingface.co/spaces/xinyu1205/Tag2Text)
 
 [object detection](https://huggingface.co/spaces/ShilongLiu/Grounding_DINO_demo]
