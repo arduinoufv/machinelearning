@@ -63,6 +63,8 @@ Learning to Follow Image Editing Instructions](https://www.timothybrooks.com/ins
 
 # Gradio Demo
 
+* [introducao ao Gradio](https://huggingface.co/learn/nlp-course/chapter9/1?fw=pt)
+
 * [Gradio demo for VideoMAE for video classification. To use it, simply upload your video or click one of the examples to load them. Read more at the links below.](https://huggingface.co/spaces/sayakpaul/video-classification-ucf101-subset)
 * [Question and Answer](https://huggingface.co/spaces/gradio/question-answering)
 * [Yolo v6 Video](https://huggingface.co/spaces/nateraw/yolov6)
