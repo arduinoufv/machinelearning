@@ -20,6 +20,8 @@ Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
 
 # Demos
 
+[separar audio](https://huggingface.co/spaces/Audio-AGI/AudioSep)
+
 [pixelart](https://huggingface.co/nerijs/pixel-art-xl?text=pixel+art%2C+capivara%2C++simple%2C+flat+colors)
 
 [image to story](https://huggingface.co/spaces/fffiloni/Image-to-Story)
