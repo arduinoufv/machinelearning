@@ -8,6 +8,11 @@
 [Open-Source ChatGPT Build a chatbot for your own data with open source LLM](https://www.producthunt.com/posts/open-source-chatgpt)
 
 [Pico GPt2 em NumPY, usa openai background](https://github.com/jaymody/picoGPT)
+
+# Pandas
+
+[Cuda 10 Minutes to RAPIDS cuDF's pandas accelerator mode (cudf.pandas)](https://colab.research.google.com/drive/12tCzP94zFG2BRduACucn5Q_OcX1TUKY3)
+
 # Tabular data
 
 [Keras, NN, Tabular Data](https://keras.io/examples/structured_data/structured_data_classification_with_feature_space/)
