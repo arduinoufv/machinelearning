@@ -18,6 +18,10 @@ Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
 
 [Hugging Face Transformers Examples](https://www.philschmid.de/huggingface-transformers-examples)
 
+# RL 
+
+[matrix multiplications  alpha tensor](https://www.youtube.com/watch?v=fDAPJ7rvcUw)
+
 # Demos
 
 [separar audio](https://huggingface.co/spaces/Audio-AGI/AudioSep)
