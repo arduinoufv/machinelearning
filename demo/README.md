@@ -8,6 +8,8 @@ Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
 
 * [DALL·E 2 and AI art prompt resources & tools to inspire beautiful images](http://dallery.gallery/prompt-resources-tools-ai-art/)
 
+* [photomaker](https://huggingface.co/spaces/TencentARC/PhotoMaker)
+
 # [ChatGPT](https://chat.openai.com/chat)
 
 * [demo de chat gpt](https://huggingface.co/spaces/anzorq/chatgpt-demo)
