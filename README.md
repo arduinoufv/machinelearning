@@ -119,6 +119,8 @@
 
 ## 5. Online Books
 
+[Deep Learning 2024 = Bishop](https://www.bishopbook.com/)
+
 [Understanding Deep Learning by Simon J.D. Princ To be published by MIT Press Dec 5th 2023.](https://udlbook.github.io/udlbook/)
 
 [Brief Deep Learning](https://fleuret.org/francois/) + [complete course](https://fleuret.org/dlc/#lectures)
