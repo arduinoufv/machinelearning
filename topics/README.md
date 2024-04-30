@@ -1,3 +1,6 @@
+# auto tune 
+[Ray Tune: Hyperparameter Tuning](https://docs.ray.io/en/latest/tune/index.html)
+
 # Federated Learning
 
 [How Federated Learning Protects Privacy](https://pair.withgoogle.com/explorables/federated-learning/?linkId=8336466)
