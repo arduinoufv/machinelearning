@@ -1,5 +1,9 @@
 [GAM segmentação da Meta](https://segment-anything.com/)
+
+[Colab how-to-segment-anything-with-sam.ipynb](https://colab.research.google.com/github/roboflow-ai/notebooks/blob/main/notebooks/how-to-segment-anything-with-sam.ipynb#scrollTo=DxH9V2nHQC4M)
+
 [GAN](https://poloclub.github.io/ganlab/)
+
 
 [ChatGPT is not all you need. A State of the Art
 Review of large Generative AI models](https://arxiv.org/pdf/2301.04655.pdf)
