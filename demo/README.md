@@ -1,3 +1,4 @@
+[GAM segmentação da Meta](https://segment-anything.com/)
 [GAN](https://poloclub.github.io/ganlab/)
 
 [ChatGPT is not all you need. A State of the Art
