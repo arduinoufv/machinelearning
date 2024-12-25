@@ -24,6 +24,7 @@
 ![](https://datasciencedojo.com/wp-content/uploads/ML-algorithm-1030x1030.png)
 
 10. [Introduction to Machine Learning](https://github.com/gaih/introduction-to-machine-learning-archived)
+11. [Neural Networks](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 
 ## 1. Programming
 
